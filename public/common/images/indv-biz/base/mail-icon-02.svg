@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="그룹_457806" data-name="그룹 457806" transform="translate(-4.715 24.223)">
+    <g id="FINAL" transform="translate(4.715 -24.223)">
+      <g id="그룹_457804-2" data-name="그룹 457804-2" transform="translate(13.785 5.645)">
+        <path id="패스_841475" data-name="패스 841475" d="M44.77-17.166H25.7v44.88a6.73,6.73,0,0,0,6.731,6.728H55.989" transform="translate(-25.697 17.166)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <line id="Line_107-2" data-name="Line 107-2" x2="3.366" transform="translate(13.463 47.125)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="패스_841481" data-name="패스 841481" d="M63.562,37.247V-3.142" transform="translate(-33.27 14.361)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2"/>
+        <path id="패스_841476" data-name="패스 841476" d="M60.757-17.16v2.24H63" transform="translate(-32.709 17.165)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="그룹_457805" data-name="그룹 457805" transform="translate(36.34 44.098)">
+        <rect id="사각형_339576" data-name="사각형 339576" width="23.54" height="17.902" transform="translate(0 0)" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="패스_841477" data-name="패스 841477" d="M32.2,2.777l11.77,9.882,11.77-9.882" transform="translate(-32.196 -2.777)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <rect id="사각형_339577" data-name="사각형 339577" width="64" height="64" fill="none"/>
+    </g>
+  </g>
+</svg>

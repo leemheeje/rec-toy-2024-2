@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="_12" data-name=" 12" transform="translate(0 -0.008)">
+    <g id="_2" data-name=" 2">
+      <path id="패스_841367" data-name="패스 841367" d="M48.514,56.555H21.484A6.284,6.284,0,0,1,15.2,50.276V8.259H38.3" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="패스_841367-2" data-name="패스 841367-2" d="M48.8,18.759v37.8" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle id="타원_8369" data-name="타원 8369" cx="10.4" cy="10.4" r="10.4" transform="translate(21.6 14.408)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="선_126496" data-name="선 126496" x2="20.8" transform="translate(21.6 41.608)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="선_126497" data-name="선 126497" x2="21" transform="translate(21.5 49.209)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle id="타원_8370" data-name="타원 8370" cx="3.15" cy="3.15" r="3.15" transform="translate(28.85 20.334)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="패스_841368" data-name="패스 841368" d="M46.7,8.259v2.1h2.1" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="패스_841369" data-name="패스 841369" d="M38.28,33.1A5.985,5.985,0,0,0,32,27.683h0a5.984,5.984,0,0,0-6.24,5.44" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <rect id="사각형_339349" data-name="사각형 339349" width="64" height="64" transform="translate(0 0.008)" fill="none"/>
+    <circle id="타원_10" data-name="타원 10" cx="9.473" cy="9.473" r="9.473" transform="translate(38.039 34.168)" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="선_20" data-name="선 20" x2="6.031" y2="6.031" transform="translate(54.4 50.528)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

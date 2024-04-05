@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#000;stroke-width:3px;stroke-linecap:round;stroke-linejoin:round}
+        </style>
+    </defs>
+    <g id="icon_finish" transform="translate(.061)">
+        <path id="사각형_339176" data-name="사각형 339176" transform="translate(-.061)" style="fill:none" d="M0 0h120v120H0z"/>
+        <g id="그룹_456071" data-name="그룹 456071">
+            <path id="패스_840978-2" data-name="패스 840978-2" class="cls-2" d="M80.564 35.646v31.593"/>
+            <path id="패스_840979" data-name="패스 840979" class="cls-2" d="M71.5 103.121H35.551A11.25 11.25 0 0 1 24.3 91.871l.021-75h37.745"/>
+            <path id="선_486" data-name="선 486" class="cls-2" transform="translate(35.094 76.878)" d="M0 0h32.767"/>
+            <path id="선_487" data-name="선 487" class="cls-2" transform="translate(35.094 89.519)" d="M0 0h29.598"/>
+            <path id="패스_840980" data-name="패스 840980" class="cls-2" d="M80.564 20.621h-3.75v-3.75"/>
+            <circle id="타원_8369" data-name="타원 8369" class="cls-2" cx="18.623" cy="18.623" r="18.623" transform="translate(35.094 27.509)"/>
+            <circle id="타원_8370" data-name="타원 8370" class="cls-2" cx="6.629" cy="6.629" r="6.629" transform="translate(47.089 35.797)"/>
+            <path id="패스_841369" data-name="패스 841369" class="cls-2" d="M63.5 61.65a9.817 9.817 0 0 0-9.785-9.023h0a9.82 9.82 0 0 0-9.784 9"/>
+        </g>
+        <circle id="타원_207" data-name="타원 207" cx="20.625" cy="20.625" r="20.625" transform="translate(64.692 67.234)" style="stroke-miterlimit:10;stroke:#000;stroke-width:3px;fill:none"/>
+        <path id="패스_70043" data-name="패스 70043" d="m75.38 89.4 5.6 5.589 14.271-14.276" style="stroke-miterlimit:10;stroke-linecap:round;stroke:#000;stroke-width:3px;fill:none"/>
+    </g>
+</svg>

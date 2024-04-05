@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="그룹_459184" data-name="그룹 459184" transform="translate(-0.126 -0.069)">
+    <g id="그룹_38" data-name="그룹 38">
+      <path id="사각형_20" data-name="사각형 20" d="M19.017,17.883v5.074H5.235V1.254H19.017V6.031" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="선_25" data-name="선 25" x2="2.598" transform="translate(10.827 19.812)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+    <rect id="사각형_21" data-name="사각형 21" width="24" height="24" transform="translate(0.126 0.069)" fill="none"/>
+    <g id="그룹_458158" data-name="그룹 458158">
+      <ellipse id="타원_164" data-name="타원 164" cx="0.831" cy="0.878" rx="0.831" ry="0.878" transform="translate(16.853 13.824)"/>
+      <g id="그룹_4275" data-name="그룹 4275">
+        <path id="패스_69847" data-name="패스 69847" d="M22.208,10.462a6.235,6.235,0,0,0-9.048.081" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="패스_69848" data-name="패스 69848" d="M20.064,12.518a3.32,3.32,0,0,0-4.761.08" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

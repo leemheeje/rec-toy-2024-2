@@ -1,0 +1,1346 @@
+@charset "UTF-8";
+
+.modal-dialog.payment-wrap {
+  max-width: 614px;
+}
+.p-hago .payment-wrap {
+  width: 860px;
+  margin: 0 auto -70px;
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+.modal-dialog.payment-wrap .title,
+.p-hago .payment-wrap .title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 26px;
+}
+.modal-dialog.payment-wrap .title h4,
+.p-hago .payment-wrap .title h4 {
+  font-weight: 700;
+}
+
+.modal-dialog.payment-wrap .pay-box,
+.p-hago .payment-wrap .pay-box {
+  border-radius: 16px;
+  background: #fff;
+}
+.modal-dialog.payment-wrap .pay-box .pay-box-hd,
+.p-hago .payment-wrap .pay-box .pay-box-hd {
+  border-bottom: 1px solid #ebebeb;
+  margin: 0 115px;
+  padding-top: 52px;
+  padding-bottom: 47px;
+}
+.modal-dialog.payment-wrap .hed3,
+.p-hago .payment-wrap .hed3 {
+  font-size: 26px;
+  line-height: 34px;
+  letter-spacing: -0.78px;
+  font-weight: bold;
+  text-align: left;
+  color: #000;
+  display: block;
+}
+.modal-dialog.payment-wrap .hed4,
+.p-hago .payment-wrap .hed4 {
+  font-size: 23px;
+  line-height: 34px;
+  letter-spacing: -0.69px;
+  font-weight: bold;
+  text-align: left;
+  color: #000;
+  display: block;
+}
+.modal-dialog.payment-wrap .shed3,
+.p-hago .payment-wrap .shed3 {
+  font-size: 15px;
+  line-height: 22px;
+  letter-spacing: -0.45px;
+  font-weight: bold;
+  text-align: left;
+  color: #000;
+  display: block;
+}
+.modal-dialog.payment-wrap .hed3 + .shed3,
+.p-hago .payment-wrap .hed3 + .shed3 {
+  margin-top: 15px;
+}
+.modal-dialog.payment-wrap .clr-e6007e,
+.p-hago .payment-wrap .clr-e6007e {
+  color: #e6007e !important;
+}
+.modal-dialog.payment-wrap .clr-aaa,
+.p-hago .payment-wrap .clr-aaa {
+  color: #aaa !important;
+}
+.modal-dialog.payment-wrap .pay-box .font-13,
+.p-hago .payment-wrap .pay-box .font-13 {
+  font-size: 13px !important;
+}
+.modal-dialog.payment-wrap .pay-box .font-15,
+.p-hago .payment-wrap .pay-box .font-15 {
+  font-size: 15px !important;
+}
+.modal-dialog.payment-wrap .pay-box .clr-aaa.c-link-under-1-s,
+.p-hago .payment-wrap .pay-box .clr-aaa.c-link-under-1-s {
+  border-color: #aaa;
+}
+.modal-dialog.payment-wrap .pay-box .pay-box-ct,
+.p-hago .payment-wrap .pay-box .pay-box-ct {
+  padding-bottom: 10px;
+}
+.modal-dialog.payment-wrap .pay-box .pay-box-row,
+.p-hago .payment-wrap .pay-box .pay-box-row {
+  border-top: 1px solid #ebebeb;
+  padding: 42px 115px;
+  padding-bottom: 42px;
+}
+.modal-dialog.payment-wrap .pay-box-ct .c-label + [class^='c-btn'],
+.p-hago .payment-wrap .pay-box-ct .c-label + [class^='c-btn'],
+.modal-dialog.payment-wrap .pay-box-ct .c-label + [class^='c-selform'],
+.p-hago .payment-wrap .pay-box-ct .c-label + [class^='c-selform'],
+.modal-dialog.payment-wrap .pay-box-ct .c-label + .c-inpform,
+.p-hago .payment-wrap .pay-box-ct .c-label + .c-inpform {
+  margin-top: 9px;
+}
+.modal-dialog.payment-wrap .pay-box-ct .c-inpform,
+.p-hago .payment-wrap .pay-box-ct .c-inpform {
+}
+.modal-dialog.payment-wrap .pay-box-ct .c-inpform .c-btn-clear,
+.p-hago .payment-wrap .pay-box-ct .c-inpform .c-btn-clear {
+  right: 12px;
+}
+
+.modal-dialog.payment-wrap .pay-box-ct .c-inpform .c-inp,
+.p-hago .payment-wrap .pay-box-ct .c-inpform .c-inp {
+  height: 54px;
+  padding-right: 36px;
+  padding-top: 0;
+  padding-bottom: 0;
+  color: #000;
+  font-size: 17px;
+  text-align: left;
+  border: none;
+  border-radius: 5px;
+  border: 2px solid transparent;
+  background: #f5f5f5;
+  text-indent: 20px;
+}
+.modal-dialog.payment-wrap .pay-box-ct .c-selform-custom .c-select-btn,
+.p-hago .payment-wrap .pay-box-ct .c-selform-custom .c-select-btn {
+  height: 54px;
+}
+.modal-dialog.payment-wrap .pay-box-ct .c-selform-custom .c-select-btn .select-btn,
+.p-hago .payment-wrap .pay-box-ct .c-selform-custom .c-select-btn .select-btn {
+  font-size: 17px;
+  color: #000;
+  height: 54px;
+  text-indent: 0;
+  padding-right: 16px;
+}
+.modal-dialog.payment-wrap .pay-box-ct .c-selform-custom.is-active,
+.p-hago .payment-wrap .pay-box-ct .c-selform-custom.is-active {
+  border: 2px solid #000;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  border-bottom: none;
+  margin-top: -2px;
+}
+.modal-dialog.payment-wrap .pay-box-ct .c-label + .c-selform-custom.is-active,
+.p-hago .payment-wrap .pay-box-ct .c-label + .c-selform-custom.is-active {
+  margin-top: 7px;
+}
+.modal-dialog.payment-wrap .pay-box-ct .c-selform-custom.is-active .c-select-btn .select-btn,
+.p-hago .payment-wrap .pay-box-ct .c-selform-custom.is-active .c-select-btn .select-btn {
+  border-color: #fff;
+  outline: none;
+  padding-left: 14px;
+}
+.modal-dialog.payment-wrap .pay-box-ct .c-selform-custom.is-active .c-select-list,
+.p-hago .payment-wrap .pay-box-ct .c-selform-custom.is-active .c-select-list {
+  top: 54px;
+  width: calc(100% + 4px);
+  left: calc(0% - 2px);
+  border: 2px solid #000;
+  border-top: none;
+  overflow-y: auto;
+}
+.modal-dialog.payment-wrap .pay-box-ct .c-selform-custom.is-active .c-select-list .c-select-option,
+.p-hago .payment-wrap .pay-box-ct .c-selform-custom.is-active .c-select-list .c-select-option {
+  max-height: 283px;
+  overflow-y: auto;
+}
+.modal-dialog.payment-wrap .pay-box-ct .c-inpform .c-inp:read-only,
+.p-hago .payment-wrap .pay-box-ct .c-inpform .c-inp:read-only {
+  color: #aaa;
+}
+.modal-dialog.payment-wrap .pay-box-ct .c-inpform.is-err .c-inp,
+.p-hago .payment-wrap .pay-box-ct .c-inpform.is-err .c-inp {
+  border-color: #fd302c;
+}
+.modal-dialog.payment-wrap .c-label,
+.p-hago .payment-wrap .c-label {
+  color: #000;
+  font-weight: bold;
+}
+.modal-dialog.payment-wrap .c-label.sm,
+.p-hago .payment-wrap .c-label.sm {
+  font-size: 14px;
+  line-height: 20px;
+  min-height: 20px;
+}
+.modal-dialog.payment-wrap .c-label.lg,
+.p-hago .payment-wrap .c-label.lg {
+  font-size: 21px;
+  line-height: 30px;
+  min-height: 30px;
+}
+.modal-dialog.payment-wrap .pay-box-flex,
+.p-hago .payment-wrap .pay-box-flex {
+  display: flex;
+  margin-left: -5px;
+  margin-right: -5px;
+  width: 100%;
+  width: calc(100% + 10px);
+}
+.modal-dialog.payment-wrap .pay-box-flex.alignBottom,
+.p-hago .payment-wrap .pay-box-flex.alignBottom {
+  align-items: flex-end;
+}
+.modal-dialog.payment-wrap .pay-box-flex-group,
+.p-hago .payment-wrap .pay-box-flex-group {
+  display: flex;
+  margin-left: -5px;
+  margin-right: -5px;
+  width: 100%;
+  width: calc(100% + 10px);
+}
+.modal-dialog.payment-wrap .pay-box-flex-group ul[class^='c-card'],
+.p-hago .payment-wrap .pay-box-flex-group ul[class^='c-card'] {
+  width: 100%;
+  margin-left: 0;
+}
+.modal-dialog.payment-wrap .pay-box-flex-group ul[class^='c-card'] > li,
+.p-hago .payment-wrap .pay-box-flex-group ul[class^='c-card'] > li {
+  flex: 1;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.modal-dialog.payment-wrap .pay-box-flex [class^='pay-box-colum'],
+.p-hago .payment-wrap .pay-box-flex [class^='pay-box-colum'] {
+  padding-left: 5px;
+  padding-right: 5px;
+  flex: 1;
+}
+.modal-dialog.payment-wrap .pay-box-flex .pay-box-colum80,
+.p-hago .payment-wrap .pay-box-flex .pay-box-colum80 {
+  width: 80%;
+  flex: inherit;
+}
+.modal-dialog.payment-wrap .pay-box-flex .pay-box-colum75,
+.p-hago .payment-wrap .pay-box-flex .pay-box-colum75 {
+  width: 75%;
+  flex: inherit;
+}
+.modal-dialog.payment-wrap .pay-box-flex .pay-box-colum70,
+.p-hago .payment-wrap .pay-box-flex .pay-box-colum70 {
+  width: 70%;
+  flex: inherit;
+}
+.modal-dialog.payment-wrap .pay-box-flex .pay-box-colum45,
+.p-hago .payment-wrap .pay-box-flex .pay-box-colum45 {
+  width: 45%;
+  flex: inherit;
+}
+.modal-dialog.payment-wrap .pay-box-flex .pay-box-colum40,
+.p-hago .payment-wrap .pay-box-flex .pay-box-colum40 {
+  width: 40%;
+  flex: inherit;
+}
+.modal-dialog.payment-wrap .pay-box-flex .pay-box-colum30,
+.p-hago .payment-wrap .pay-box-flex .pay-box-colum30 {
+  width: 30%;
+  flex: inherit;
+}
+.modal-dialog.payment-wrap .pay-box-flex .pay-box-colum30,
+.p-hago .payment-wrap .pay-box-flex .pay-box-colum30 {
+  width: 30%;
+  flex: inherit;
+}
+.modal-dialog.payment-wrap .pay-box-flex .pay-box-colum35,
+.p-hago .payment-wrap .pay-box-flex .pay-box-colum35 {
+  width: 35%;
+  flex: inherit;
+}
+.modal-dialog.payment-wrap .pay-box-flex .pay-box-colum25,
+.p-hago .payment-wrap .pay-box-flex .pay-box-colum25 {
+  width: 25%;
+  flex: inherit;
+}
+.modal-dialog.payment-wrap .pay-box-flex .pay-box-colum20,
+.p-hago .payment-wrap .pay-box-flex .pay-box-colum20 {
+  width: 20%;
+  flex: inherit;
+}
+.modal-dialog.payment-wrap .pay-box-flex.row,
+.p-hago .payment-wrap .pay-box-flex.row {
+  flex-direction: row;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.modal-dialog.payment-wrap .pay-info,
+.p-hago .payment-wrap .pay-info {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+.modal-dialog.payment-wrap .pay-info .iic,
+.p-hago .payment-wrap .pay-info .iic {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background: no-repeat url('/indv/images/payment/ico_info.png');
+  border-radius: 50%;
+  background-size: 100%;
+  margin-right: 6px;
+}
+.modal-dialog.payment-wrap .pay-info .c-txts,
+.p-hago .payment-wrap .pay-info .c-txts {
+  word-break: break-all;
+  font-size: 14px;
+  line-height: 21px;
+  color: #000;
+  text-align: left;
+  font-weight: 500;
+  letter-spacing: -0.42px;
+}
+.modal-dialog.payment-wrap .pay-sinfo .c-txts,
+.p-hago .payment-wrap .pay-sinfo .c-txts {
+  word-break: break-all;
+  font-size: 13px;
+  line-height: 20px;
+  color: #aaa;
+  text-align: left;
+  font-weight: 300;
+  letter-spacing: -0.39px;
+}
+
+.modal-dialog.payment-wrap .ML30,
+.p-hago .payment-wrap .ML30 {
+  margin-left: 30px;
+}
+.modal-dialog.payment-wrap .ML35,
+.p-hago .payment-wrap .ML35 {
+  margin-left: 35px;
+}
+.modal-dialog.payment-wrap .MT10,
+.p-hago .payment-wrap .MT10 {
+  margin-top: 10px;
+}
+.modal-dialog.payment-wrap .MT15,
+.p-hago .payment-wrap .MT15 {
+  margin-top: 15px;
+}
+.modal-dialog.payment-wrap .MT20,
+.p-hago .payment-wrap .MT20 {
+  margin-top: 20px;
+}
+.modal-dialog.payment-wrap .MT25,
+.p-hago .payment-wrap .MT25 {
+  margin-top: 25px;
+}
+.modal-dialog.payment-wrap .MT30,
+.p-hago .payment-wrap .MT30 {
+  margin-top: 30px;
+}
+.modal-dialog.payment-wrap .MT40,
+.p-hago .payment-wrap .MT40 {
+  margin-top: 40px;
+}
+.modal-dialog.payment-wrap .MT45,
+.p-hago .payment-wrap .MT45 {
+  margin-top: 45px;
+}
+.modal-dialog.payment-wrap .MT50,
+.p-hago .payment-wrap .MT50 {
+  margin-top: 50px;
+}
+.modal-dialog.payment-wrap .FWB,
+.p-hago .payment-wrap .FWB {
+  font-weight: bold;
+}
+.modal-dialog.payment-wrap .FWM,
+.p-hago .payment-wrap .FWM {
+  font-weight: 400;
+}
+.modal-dialog.payment-wrap .FWN,
+.p-hago .payment-wrap .FWN {
+  font-weight: 300;
+}
+.modal-dialog.payment-wrap .TXTC,
+.p-hago .payment-wrap .TXTC {
+  text-align: center !important;
+}
+.modal-dialog.payment-wrap .pay-cmm-btn.block,
+.p-hago .payment-wrap .pay-cmm-btn.block {
+  width: 100%;
+}
+.modal-dialog.payment-wrap .pay-cmm-btn.auto-height,
+.p-hago .payment-wrap .pay-cmm-btn.auto-height {
+  height: auto;
+}
+.modal-dialog.payment-wrap .pay-cmm-btn,
+.p-hago .payment-wrap .pay-cmm-btn {
+  height: 54px;
+  border-radius: 8px;
+  min-width: 410px;
+  font-size: 16px;
+  letter-spacing: -0.48px;
+  margin-left: 0;
+}
+.modal-dialog.payment-wrap .pay-cmm-btn.sm,
+.p-hago .payment-wrap .pay-cmm-btn.sm {
+  min-width: 142px;
+  padding: 0 5px;
+  height: 40px;
+  font-size: 16px;
+  border-radius: 40px;
+}
+.modal-dialog.payment-wrap .pay-cmm-btn .pb-aut-layout,
+.p-hago .payment-wrap .pay-cmm-btn .pb-aut-layout {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid #e6007e;
+  border-radius: 8px;
+  padding: 18px 20px;
+  align-items: flex-start;
+}
+.modal-dialog.payment-wrap .pay-cmm-btn .pb-aut-layout .lbw,
+.p-hago .payment-wrap .pay-cmm-btn .pb-aut-layout .lbw {
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 24px;
+  letter-spacing: -0.48px;
+  color: #e6007e;
+}
+.modal-dialog.payment-wrap .pay-cmm-btn .pb-aut-layout .nti,
+.p-hago .payment-wrap .pay-cmm-btn .pb-aut-layout .nti {
+  margin-top: 14px;
+  font-size: 13px;
+  color: #000;
+  font-weight: normal;
+  letter-spacing: -0.39px;
+  line-height: 19px;
+  display: block;
+  word-break: break-all;
+}
+.modal-dialog.payment-wrap .pay-cmm-btn:disabled .pb-aut-layout,
+.p-hago .payment-wrap .pay-cmm-btn:disabled .pb-aut-layout {
+  border-width: 1px;
+  border-color: #ebebeb;
+  padding: 19px 21px;
+}
+.modal-dialog.payment-wrap .pay-cmm-btn:disabled .pb-aut-layout .lbw,
+.p-hago .payment-wrap .pay-cmm-btn:disabled .pb-aut-layout .lbw {
+  color: #aaa;
+}
+.modal-dialog.payment-wrap .pay-cmm-btn:disabled .pb-aut-layout .nti,
+.p-hago .payment-wrap .pay-cmm-btn:disabled .pb-aut-layout .nti {
+  color: #ccc;
+}
+.modal-dialog.payment-wrap .pay-cmm-btn.w100,
+.p-hago .payment-wrap .pay-cmm-btn.w100 {
+  min-width: 100%;
+}
+.modal-dialog.payment-wrap .pay-cmm-btn.black,
+.p-hago .payment-wrap .pay-cmm-btn.black {
+  background-color: #000;
+  color: #fff;
+}
+.modal-dialog.payment-wrap .pay-cmm-btn.black.md {
+  background: #fff;
+  color: #000;
+  border: 1px solid #ebebeb;
+}
+.modal-dialog.payment-wrap .lst-just-area,
+.p-hago .payment-wrap .lst-just-area {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.modal-dialog.payment-wrap .pay-cmm-btn.md,
+.p-hago .payment-wrap .pay-cmm-btn.md {
+  padding: 0;
+  font-size: 14px;
+  letter-spacing: 0.42px;
+}
+.modal-dialog.payment-wrap .ic-rowx,
+.p-hago .payment-wrap .ic-rowx {
+  font-size: 0;
+  width: 20px;
+  height: 20px;
+  display: block;
+  background: url('/common/images/indv-biz/icon/ico-arrow-bottom-type1.svg') no-repeat center center;
+  opacity: 0.4;
+}
+.modal-dialog.payment-wrap .ic-rowx.active,
+.p-hago .payment-wrap .ic-rowx.active {
+  transform: rotate(-180deg);
+}
+.modal-dialog.payment-wrap .tolg-gry-box,
+.p-hago .payment-wrap .tolg-gry-box {
+  display: block;
+  padding: 20px;
+  border-radius: 8px;
+  max-height: 354px;
+  overflow: hidden;
+  overflow-y: auto;
+  background-color: #f5f5f5;
+}
+.modal-dialog.payment-wrap .tolg-gry-box .cont,
+.p-hago .payment-wrap .tolg-gry-box .cont {
+  font-size: 12px;
+  font-weight: normal;
+  color: #aaa;
+  line-height: 21px;
+  word-break: break-all;
+  display: block;
+  text-align: left;
+}
+.modal-dialog.payment-wrap .pay-box-ct .c-checkbox,
+.p-hago .payment-wrap .pay-box-ct .c-checkbox {
+  font-size: 15px;
+  color: #000;
+  padding-left: 36px;
+  min-height: 27px;
+}
+.modal-dialog.payment-wrap .pay-box-ct .c-checkbox .icon,
+.p-hago .payment-wrap .pay-box-ct .c-checkbox .icon {
+  top: -2px;
+  width: 27px;
+  height: 27px;
+  border-radius: 50%;
+  background: none;
+  border: 1px solid #ebebeb;
+  position: absolute;
+}
+.modal-dialog.payment-wrap .pay-box-ct .c-checkbox .icon:after,
+.p-hago .payment-wrap .pay-box-ct .c-checkbox .icon:after,
+.modal-dialog.payment-wrap .pay-box-ct .c-checkbox .icon:before,
+.p-hago .payment-wrap .pay-box-ct .c-checkbox .icon:before {
+  content: '';
+  background: #ccc;
+  height: 2px;
+  width: 10px;
+  border-radius: 2px;
+  position: absolute;
+}
+.modal-dialog.payment-wrap .pay-box-ct .c-checkbox .icon:after,
+.p-hago .payment-wrap .pay-box-ct .c-checkbox .icon:after {
+  transform: rotate(49deg);
+  transform-origin: right top;
+  width: 7px;
+  left: 6px;
+  top: 16px;
+}
+.modal-dialog.payment-wrap .pay-box-ct .c-checkbox .icon:before,
+.p-hago .payment-wrap .pay-box-ct .c-checkbox .icon:before {
+  transform: rotate(-48deg);
+  transform-origin: left top;
+  left: 11px;
+  top: 16px;
+}
+.modal-dialog.payment-wrap .pay-box-ct .c-checkbox input:checked + .text-chkbox .icon,
+.p-hago .payment-wrap .pay-box-ct .c-checkbox input:checked + .text-chkbox .icon {
+  background: #000;
+  border-color: #000;
+}
+.modal-dialog.payment-wrap .pay-box-ct .c-checkbox input:checked + .text-chkbox .icon:after,
+.p-hago .payment-wrap .pay-box-ct .c-checkbox input:checked + .text-chkbox .icon:after,
+.modal-dialog.payment-wrap .pay-box-ct .c-checkbox input:checked + .text-chkbox .icon:before,
+.p-hago .payment-wrap .pay-box-ct .c-checkbox input:checked + .text-chkbox .icon:before {
+  background: #fff;
+}
+.modal-dialog.payment-wrap .pay-box-ct .pay-box-card,
+.p-hago .payment-wrap .pay-box-ct .pay-box-card {
+  width: 100%;
+}
+.modal-dialog.payment-wrap .pay-box-ct .pay-box-card *[class*='c-card-list'] > li > .c-card-box,
+.p-hago .payment-wrap .pay-box-ct .pay-box-card *[class*='c-card-list'] > li > .c-card-box {
+  border-radius: 0;
+  border: none;
+  min-height: 0;
+}
+.modal-dialog.payment-wrap .pay-box-ct .pay-box-card *[class*='c-card-list'] > li > .c-card-box .c-radio,
+.p-hago .payment-wrap .pay-box-ct .pay-box-card *[class*='c-card-list'] > li > .c-card-box .c-radio {
+  padding-left: 0;
+  font-size: 0;
+  display: block;
+}
+.modal-dialog.payment-wrap .pay-box-ct .pay-box-card *[class*='c-card-list'] > li > .c-card-box .text-radio,
+.p-hago .payment-wrap .pay-box-ct .pay-box-card *[class*='c-card-list'] > li > .c-card-box .text-radio {
+  border-radius: 8px;
+  border: 1px solid #ebebeb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.modal-dialog.payment-wrap
+  .pay-box-ct
+  .pay-box-card
+  *[class*='c-card-list']
+  > li
+  > .c-card-box
+  input[type='radio']:checked
+  + .text-radio {
+  border: 2px solid #000;
+}
+.p-hago
+  .payment-wrap
+  .pay-box-ct
+  .pay-box-card
+  *[class*='c-card-list']
+  > li
+  > .c-card-box
+  input[type='radio']:checked
+  + .text-radio {
+  border: 2px solid #000;
+}
+.modal-dialog.payment-wrap .pay-box-ct .pay-box-card.lg *[class*='c-card-list'] > li > .c-card-box .text-radio,
+.p-hago .payment-wrap .pay-box-ct .pay-box-card.lg *[class*='c-card-list'] > li > .c-card-box .text-radio {
+  min-height: 100px;
+}
+.modal-dialog.payment-wrap .pay-box-ct .pay-box-card.isDesc .c-card-box {
+  position: relative;
+  padding-bottom: 60px;
+}
+.modal-dialog.payment-wrap .pay-box-ct .pay-box-card.md *[class*='c-card-list'] > li > .c-card-box .text-radio,
+.p-hago .payment-wrap .pay-box-ct .pay-box-card.md *[class*='c-card-list'] > li > .c-card-box .text-radio {
+  min-height: 54px;
+}
+
+.modal-dialog.payment-wrap .pay-box-ct .pay-type-tt,
+.p-hago .payment-wrap .pay-box-ct .pay-type-tt {
+  display: flex;
+  font-size: 18px;
+  color: #000;
+  align-items: center;
+  font-weight: bold;
+}
+.modal-dialog.payment-wrap .pay-box-ct .pay-box-card.isDesc .c-card-box .pay-type-ds {
+  position: absolute;
+  left: 0;
+  top: 100%;
+}
+.modal-dialog.payment-wrap .pay-box-ct .pay-type-ds,
+.p-hago .payment-wrap .pay-box-ct .pay-type-ds {
+  font-size: 13px;
+  line-height: 20px;
+  text-align: left;
+  display: block;
+  color: #aaa;
+  padding: 8px 10px;
+}
+.modal-dialog.payment-wrap .pay-box-ct .pay-type-tt.sm,
+.p-hago .payment-wrap .pay-box-ct .pay-type-tt.sm {
+  font-size: 16px;
+}
+.modal-dialog.payment-wrap .pay-box-ct .pay-type-tt.sm,
+.p-hago .payment-wrap .pay-box-ct .pay-type-tt.sm {
+  font-size: 16px;
+}
+.modal-dialog.payment-wrap .pay-box-ct .pay-type-tt .iic,
+.p-hago .payment-wrap .pay-box-ct .pay-type-tt .iic {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  background: no-repeat;
+  margin-right: 8px;
+}
+.modal-dialog.payment-wrap .pay-gry-bx,
+.p-hago .payment-wrap .pay-gry-bx {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #f5f5f5;
+  border-radius: 8px;
+  padding: 48px;
+}
+.modal-dialog.payment-wrap .py-just-lst,
+.p-hago .payment-wrap .py-just-lst {
+  display: block;
+}
+.modal-dialog.payment-wrap .py-just-lst .tp,
+.p-hago .payment-wrap .py-just-lst .tp {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  font-size: 14px;
+  color: #000;
+  line-height: 20px;
+  word-break: break-all;
+  letter-spacing: -0.42px;
+  font-weight: normal;
+}
+.modal-dialog.payment-wrap .py-just-lst .tp + .tp,
+.p-hago .payment-wrap .py-just-lst .tp + .tp {
+  margin-top: 12px;
+}
+.modal-dialog.payment-wrap .py-just-lst .lnx,
+.p-hago .payment-wrap .py-just-lst .lnx {
+}
+.modal-dialog.payment-wrap .py-just-lst .cont,
+.p-hago .payment-wrap .py-just-lst .cont {
+}
+.modal-dialog.payment-wrap .py-noti-lst .tp,
+.p-hago .payment-wrap .py-noti-lst .tp {
+  width: 100%;
+  font-size: 13px;
+  color: #aaa;
+  line-height: 23px;
+  word-break: break-all;
+  letter-spacing: -0.42px;
+  font-weight: 300;
+  padding-left: 10px;
+  position: relative;
+}
+.modal-dialog.payment-wrap .py-noti-lst .tp:before,
+.p-hago .payment-wrap .py-noti-lst .tp:before {
+  content: '-';
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.modal-dialog.payment-wrap .pay-box-ct .pay-type-tt .iic.iic-CC,
+.p-hago .payment-wrap .pay-box-ct .pay-type-tt .iic.iic-CC {
+  background-image: url('/indv/images/payment/ico_card.png');
+}
+.modal-dialog.payment-wrap .pay-box-ct .pay-type-tt .iic.iic-CM,
+.p-hago .payment-wrap .pay-box-ct .pay-type-tt .iic.iic-CM {
+  background-image: url('/indv/images/payment/ico_account.png');
+}
+.modal-dialog.payment-wrap .c-tooltip,
+.p-hago .payment-wrap .c-tooltip {
+  position: absolute;
+  left: 0;
+  top: 57px;
+  width: 100%;
+  border: 2px solid #000;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background: #fff;
+  z-index: 1;
+  overflow: hidden;
+  padding: 0;
+}
+.modal-dialog.payment-wrap .c-tooltip:after,
+.p-hago .payment-wrap .c-tooltip:after {
+  content: none;
+}
+.modal-dialog.payment-wrap .c-tooltip .c-ttp-inner,
+.p-hago .payment-wrap .c-tooltip .c-ttp-inner {
+  max-height: 268px;
+  overflow-y: auto;
+}
+.modal-dialog.payment-wrap .c-tooltip .c-ttp-inner .item + .item,
+.p-hago .payment-wrap .c-tooltip .c-ttp-inner .item + .item {
+  border-top: 1px solid #ebebeb;
+}
+.modal-dialog.payment-wrap .nm-tooltip-button,
+.p-hago .payment-wrap .nm-tooltip-button {
+  font-size: 15px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  font-weight: 300;
+  color: #000;
+  text-align: left;
+  width: 100%;
+  padding: 15px;
+}
+.modal-dialog.payment-wrap .nm-tooltip-button .nm-t-id,
+.p-hago .payment-wrap .nm-tooltip-button .nm-t-id {
+}
+.modal-dialog.payment-wrap .nm-tooltip-button .nm-t-dm,
+.p-hago .payment-wrap .nm-tooltip-button .nm-t-dm {
+  color: #999;
+}
+.modal-dialog.payment-wrap .nm-tooltip-button:hover,
+.p-hago .payment-wrap .nm-tooltip-button:hover {
+  background: #ebebeb;
+  color: #000 m !important;
+}
+.modal-dialog.payment-wrap .nm-tooltip-button:hover .nm-t-dm,
+.p-hago .payment-wrap .nm-tooltip-button:hover .nm-t-dm {
+  color: #000;
+}
+.modal-dialog.payment-wrap .pay-auth-ip,
+.p-hago .payment-wrap .pay-auth-ip {
+}
+.modal-dialog.payment-wrap .pay-auth-ip.is-clear .c-inp,
+.p-hago .payment-wrap .pay-auth-ip.is-clear .c-inp {
+  /* padding-right: 86px; */
+}
+.modal-dialog.payment-wrap .pay-auth-ip.is-clear .c-btn-clear,
+.p-hago .payment-wrap .pay-auth-ip.is-clear .c-btn-clear {
+  /* right: 62px; */
+}
+.modal-dialog.payment-wrap .pay-auth-ip .pay-auth-count,
+.p-hago .payment-wrap .pay-auth-ip .pay-auth-count {
+  font-size: 14px;
+  color: #e6007e;
+  position: absolute;
+  right: 35px;
+  top: 16px;
+  font-weight: normal;
+}
+.modal-dialog.payment-wrap .fk-input-field,
+.p-hago .payment-wrap .fk-input-field {
+  margin-top: 9px;
+  height: 54px;
+  padding-right: 36px;
+  padding-top: 0;
+  padding-bottom: 0;
+  color: #000;
+  font-size: 17px;
+  text-align: left;
+  border: none;
+  border-radius: 5px;
+  border: 2px solid transparent;
+  background: #f5f5f5;
+  text-indent: 20px;
+  display: flex;
+  width: 100%;
+  align-items: center;
+}
+.modal-dialog.payment-wrap .pay-prd-peri-input,
+.p-hago .payment-wrap .pay-prd-peri-input {
+  position: relative;
+}
+.modal-dialog.payment-wrap .pay-prd-peri-input .c-inpform,
+.p-hago .payment-wrap .pay-prd-peri-input .c-inpform {
+  position: absolute;
+  width: 100%;
+}
+.modal-dialog.payment-wrap .pay-prd-peri-input .c-inpform .c-inp,
+.p-hago .payment-wrap .pay-prd-peri-input .c-inpform .c-inp {
+  opacity: 0;
+}
+.m-bv-modal.c-layer-alert.pog-pay-dialog {
+  max-width: 600px;
+}
+.m-bv-modal.c-layer-alert.pog-pay-dialog.pog-pay-alert {
+  max-width: 420px;
+}
+.m-bv-modal.c-layer-alert.pog-pay-dialog.pog-pay-alert .modal-content .c-body-content {
+  font-weight: 500;
+}
+.m-bv-modal.c-layer-alert.pog-pay-dialog.pog-pay-alert .modal-content .c-body-content .h4 {
+  font-weight: 500;
+}
+.m-bv-modal.c-layer-alert.pog-pay-dialog .font-18 {
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: -0.54px;
+}
+.m-bv-modal.c-layer-alert.pog-pay-dialog .font-13 {
+  font-size: 13px;
+  line-height: 20px;
+  letter-spacing: -0.39px;
+}
+.m-bv-modal.c-layer-alert.pog-pay-dialog .font-15 {
+  font-size: 15px;
+  line-height: 20px;
+  letter-spacing: -0.39px;
+}
+.m-bv-modal.c-layer-alert.pog-pay-dialog .clr-000 {
+  color: #000 !important;
+}
+.m-bv-modal.c-layer-alert.pog-pay-dialog .clr-aaa {
+  color: #aaa !important;
+}
+.m-bv-modal.c-layer-alert.pog-pay-dialog .MT15 {
+  margin-top: 15px;
+}
+.m-bv-modal.c-layer-alert.pog-pay-dialog .TXTL {
+  text-align: left;
+}
+.m-bv-modal.c-layer-alert.pog-pay-dialog .FWB {
+  font-weight: bold;
+}
+
+.valid-alert-pop.wrp-payment-pop {
+  width: 420px !important;
+}
+.valid-alert-pop.wrp-payment-pop .modal-content,
+.valid-alert-pop.wrp-payment-pop .modal-body,
+.valid-alert-pop.wrp-payment-pop .c-body-content,
+.valid-alert-pop.wrp-payment-pop .wrap,
+.valid-alert-pop.wrp-payment-pop .pop-main {
+  width: 100% !important;
+}
+.valid-alert-pop.wrp-payment-pop .pop-main {
+  margin-bottom: 20px;
+}
+.valid-alert-pop.wrp-payment-pop .modal-content {
+  border-radius: 14px;
+}
+.valid-alert-pop.wrp-payment-pop .modal-body .beta-grid-wrap {
+  width: 100%;
+  padding: 18px;
+  margin-top: 20px;
+  border-radius: 16px;
+}
+.valid-alert-pop.wrp-payment-pop .modal-body h5 {
+  white-space: nowrap;
+  font-size: 18px;
+}
+.valid-alert-pop.wrp-payment-pop .modal-body .beta-grid-wrap h6 {
+  margin-bottom: 21px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #000;
+  padding-left: 0;
+  background: none;
+}
+.valid-alert-pop.wrp-payment-pop .modal-body .beta-grid-wrap ul {
+  gap: 21px;
+  display: block;
+  text-align: center;
+  font-size: 0;
+}
+.valid-alert-pop.wrp-payment-pop .modal-body .beta-grid-wrap ul li {
+  display: inline-block;
+  width: 50%;
+  vertical-align: top;
+  margin-bottom: 21px;
+}
+.valid-alert-pop.wrp-payment-pop .modal-body .beta-grid-wrap ul li:last-child {
+  margin-bottom: 0;
+}
+.valid-alert-pop.wrp-payment-pop .modal-body .beta-grid-wrap li .row .item-wrap span {
+  display: block;
+  text-align: center;
+  letter-spacing: -0.55px;
+}
+.valid-alert-pop.wrp-payment-pop .pop-close-btn {
+  right: 20px;
+  top: 20px;
+}
+
+.p-hago
+  .payment-wrap
+  .pay-box-ct
+  .pay-box-card
+  *[class*='c-card-list']
+  > li
+  > .c-card-box
+  .c-radio
+  input:disabled
+  + label {
+  background: #e0e0e0;
+}
+
+.p-hago
+  .payment-wrap
+  .pay-box-ct
+  .pay-box-card
+  *[class*='c-card-list']
+  > li
+  > .c-card-box
+  .c-radio
+  input:disabled
+  + label
+  .pay-type-tt {
+  color: #aaa;
+}
+
+.p-hago
+  .payment-wrap
+  .pay-box-ct
+  .pay-box-card
+  *[class*='c-card-list']
+  > li
+  > .c-card-box
+  .c-radio
+  input:disabled
+  + label
+  .pay-type-tt
+  > span {
+  opacity: 0.3;
+}
+
+.p-hago .payment-wrap .pay-sub-captions {
+  word-break: break-all;
+  font-size: 13px;
+  line-height: 20px;
+  color: #aaa;
+  text-align: left;
+  font-weight: 300;
+  letter-spacing: -0.39px;
+  margin-top: 15px;
+}
+
+.p-hago .payment-wrap .pay-type-tt > span {
+  margin-top: 3px;
+}
+
+.p-hago .pg-subscribe-DataPage {
+  display: flex;
+  flex-direction: column;
+}
+
+.p-hago .pg-subscribe-DataPage .cs-wrap {
+  width: 100%;
+  margin: 0;
+}
+
+.p-hago .pg-subscribe-DataPage .cs-wrap h4 {
+  line-height: 1.3;
+}
+
+.p-hago .pg-subscribe-inData {
+  margin: 32px 0 27px 0;
+  width: 100%;
+  background: #fff;
+  border-radius: 16px;
+  border: solid 2px #000;
+  padding: 21px;
+  box-shadow: 3px 4px 40px 0 rgba(0, 0, 0, 0.1);
+}
+
+.p-hago .pg-subscribe-inData li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  font-size: 14px;
+  letter-spacing: -0.42px;
+}
+
+.p-hago .pg-subscribe-inData li:last-child {
+  margin-bottom: 0;
+}
+
+.p-hago .pg-subscribePay-advice {
+  display: flex;
+  flex-direction: column;
+}
+
+.p-hago .pg-subscribePay-advice li {
+  font-size: 13px;
+  letter-spacing: -0.4px;
+  color: #888;
+  margin-bottom: 5px;
+}
+
+.p-hago .pg-subscribePay-advice li:last-child {
+  margin-bottom: 0;
+}
+
+.p-hago .pg-subscribe-noneData {
+  width: 100%;
+  border-radius: 16px;
+  background: #ebebeb;
+  height: 385px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 23px;
+}
+
+.p-hago .pg-subscribe-noneData img {
+  width: 62px;
+  height: 62px;
+}
+.p-hago .pg-subscribe-noneData p {
+  font-size: 16px;
+  letter-spacing: -0.48px;
+  color: #888;
+  margin: 10px 0 32px 0;
+}
+
+.p-hago .pg-subscribe-more {
+  width: 283px;
+  height: 40px;
+  background: #000;
+  border-radius: 8px;
+  font-size: 14px;
+  color: #fff;
+  text-align: center;
+  line-height: 40px;
+  letter-spacing: -0.42px;
+}
+
+.p-hago .pg-subData-change {
+  display: flex;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+
+.p-hago .pg-subData-change li {
+  width: 203px;
+  height: 39px;
+  border-radius: 8px;
+  border: 1px solid #ebebeb;
+  box-sizing: border-box;
+  line-height: 39px;
+  font-weight: bold;
+  justify-content: center;
+  margin-bottom: 0;
+}
+
+/* 약관동의 */
+
+.pg-agreements .option-content .p-hago-terms .c-emphasize-wrap-nm {
+  align-items: flex-start;
+  margin-top: 16px;
+  padding-bottom: 0;
+}
+
+.pg-agreements .option-content .p-hago-terms .c-emphasize-wrap-nm .c-btn-group {
+  justify-content: flex-start;
+}
+
+.pg-agreements .option-content .p-hago-terms .c-emphasize-wrap-nm .c-info-area {
+  width: 100%;
+  height: auto;
+  background: #222;
+  color: #fff;
+  margin: 15px 0;
+}
+
+.pg-agreements .option-content .p-hago-terms .c-emphasize-wrap .c-info-area > b {
+  font-weight: bold;
+  color: #fff;
+}
+
+.pg-agreements .agreement .option-content .p-hago-terms .c-emphasize-wrap .c-info-area dl {
+  color: #fff;
+}
+
+/* 정기결제 팝업 */
+
+.pg-popCustom-modal .modal-content .modal-header {
+  border-bottom: 0;
+}
+
+.pg-popCustom-modal small {
+  position: relative;
+  top: -3.8px;
+  margin-right: 3px;
+}
+
+.pg-popCustom-modal .modal-content .c-btn-close {
+  padding-left: 24px;
+  height: 24px;
+}
+
+.pg-popCustom-modal .pg-custom-inWrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pg-popCustom-modal .modal-content .modal-body .c-body-content {
+  padding: 0 0 48px 0;
+}
+
+.pg-popGate-modal .modal-content .modal-body .c-body-content {
+  padding: 0 103px 48px 103px;
+}
+
+.pg-SelectNum-modal .modal-content .modal-body .c-body-content {
+  padding: 0 57px 48px 57px;
+}
+
+.pg-popCreate-modal .modal-content .modal-body .c-body-content {
+  padding: 0 30px 48px 30px;
+}
+
+.pg-popGate-modal,
+.pg-SelectNum-modal {
+  max-width: 614px;
+}
+
+.pg-popSuccess-modal,
+.pg-popCreate-modal {
+  max-width: 412px;
+}
+
+.pg-popCustom-modal .pg-custom-inWrap > h2 {
+  width: 100%;
+  display: block;
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.5;
+  letter-spacing: -0.54px;
+}
+
+.pg-popCustom-modal button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #000;
+  width: 100%;
+  border-radius: 8px;
+}
+
+.pg-popGate-modal .pg-popLogin-GateWay {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.pg-popGate-modal .pg-popLogin-GateWay button {
+  width: 100%;
+  height: 54px;
+  font-size: 16px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.pg-popGate-modal .pg-popLogin-GateWay button:nth-child(1) {
+  background: #f7e600;
+}
+
+.pg-popGate-modal .pg-popLogin-GateWay button:nth-child(2) {
+  background: #1ec800;
+  color: #fff;
+}
+
+.pg-popGate-modal .pg-popLogin-GateWay button:nth-child(3) {
+  background: #e6007e;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  margin-bottom: 0;
+  color: #fff;
+}
+
+.pg-popCustom-modal .pg-notSelectUnderLIne {
+  font-size: 14px;
+  color: #888;
+  text-align: center;
+  width: 100%;
+  text-decoration: underline;
+  margin-top: 30px;
+  letter-spacing: -0.42px;
+}
+
+.pg-SelectNum-modal .pg-notSelectUnderLIne {
+  text-decoration: none;
+  width: auto;
+  border-bottom: 1px solid #888;
+  box-sizing: border-box;
+  line-height: 1.3;
+}
+
+.pg-popCreate-modal .pg-custom-inWrap p {
+  text-align: center;
+  font-size: 13px;
+  color: #aaa;
+  letter-spacing: -0.4px;
+  margin-bottom: 20px;
+}
+
+.pg-popCreate-modal .pgPopCreate-btnWrap {
+  display: inline-flex;
+}
+
+.pg-popCreate-modal .pgPopCreate-btnWrap button {
+  width: 142px;
+  border-radius: 100px;
+  height: 40px;
+}
+
+.pg-popCreate-modal .pgPopCreate-btnWrap button:nth-child(1) {
+  border: 1px solid #bbb;
+  box-sizing: border-box;
+  margin-right: 10px;
+}
+
+.pg-popCustom-modal .pg-PinkBtn {
+  color: #fff;
+  background: #e6007e;
+}
+
+.pg-popSuccess-modal .pg-PinkBtn {
+  height: 40px;
+  margin: 0 auto;
+  width: 142px;
+  border-radius: 100px;
+}
+
+.pg-SelectNum-modal .pg-NumSelects,
+.pg-SelectNum-modal .pg-NumSelects ul {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.pg-SelectNum-modal .pg-NumSelects > li {
+  width: 100%;
+  display: flex;
+  margin-bottom: 10px;
+  border: 1px solid #ebebeb;
+  box-sizing: border-box;
+  border-radius: 16px;
+  align-items: center;
+  position: relative;
+  padding: 19px;
+}
+
+.pg-SelectNum-modal .pg-NumSelects > li:last-child {
+  margin-bottom: 0;
+}
+
+.pg-SelectNum-modal .pg-grayBtn {
+  margin-top: 30px;
+  height: 54px;
+  border-radius: 8px;
+  background: #000;
+  color: #fff;
+  font-weight: bold;
+}
+
+.pg-SelectNum-modal .pg-representType {
+  width: 44px;
+  height: 28px;
+  background: #000;
+  text-align: center;
+  color: #fff;
+  font-weight: 500;
+  line-height: 27px;
+  position: absolute;
+  top: 18px;
+  right: 19px;
+  border-radius: 8px;
+  font-size: 14px;
+  display: block;
+}
+
+.pg-SelectNum-modal .pg-inNumSelect li div p:first-child {
+  font-size: 14px;
+  color: #666;
+  letter-spacing: -0.42px;
+  font-weight: normal;
+}
+
+.pg-SelectNum-modal .pg-inNumSelect li div p:last-child {
+  margin-bottom: 0;
+}
+
+.pg-SelectNum-modal .pg-inNumSelect li div p {
+  font-size: 16px;
+  color: #000;
+  letter-spacing: -0.48px;
+  margin-bottom: 5px;
+  font-weight: bold;
+}

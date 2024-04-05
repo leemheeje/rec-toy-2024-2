@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="그룹_458411" data-name="그룹 458411" transform="translate(-184 -6550)">
+    <circle id="타원_8445" data-name="타원 8445" cx="16" cy="16" r="16" transform="translate(184 6550)" fill="#fff"/>
+    <circle id="타원_8448" data-name="타원 8448" cx="9" cy="9" r="9" transform="translate(191 6557)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="타원_8449" data-name="타원 8449" cx="2.5" cy="2.5" r="2.5" transform="translate(197.5 6563.537)"/>
+    <line id="선_467" data-name="선 467" y2="2" transform="translate(200 6557)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="선_468" data-name="선 468" y2="2" transform="translate(200 6573)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="선_469" data-name="선 469" x2="2" transform="translate(207 6566)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="선_470" data-name="선 470" x2="2" transform="translate(191 6566)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>

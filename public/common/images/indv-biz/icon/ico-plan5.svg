@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="_6" data-name=" 6" transform="translate(0 0.002)">
+    <g id="그룹_456340" data-name="그룹 456340" transform="translate(10.931 11.441)">
+      <path id="패스_841001" data-name="패스 841001" d="M46.9,42.716h2.482a8.069,8.069,0,0,0,0-16.136H46.9" transform="translate(0.793 -4.795)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="패스_841002" data-name="패스 841002" d="M44.259,10.306A18.626,18.626,0,0,0,19.2,27.784v19.3H16.713a8.069,8.069,0,0,1,0-16.136h2.48" transform="translate(-8.744 -9.152)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="패스_841003" data-name="패스 841003" d="M49.5,24.053V48.4A11.8,11.8,0,0,1,37.7,60.2H36.469" transform="translate(-1.813 -5.427)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <rect id="사각형_339174" data-name="사각형 339174" width="11.171" height="4.965" rx="1" transform="translate(23.498 52.161)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="패스_841004" data-name="패스 841004" d="M46.429,16.639H43.946V14.156" transform="translate(0.056 -7.901)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <rect id="사각형_339175" data-name="사각형 339175" width="80" height="80" transform="translate(0 -0.002)" fill="none"/>
+    <g id="그룹_458142" data-name="그룹 458142" transform="translate(28.195 20.178)">
+      <circle id="타원_8358" data-name="타원 8358" cx="10.298" cy="10.298" r="10.298" transform="translate(1.695 2.282)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <ellipse id="타원_8359" data-name="타원 8359" cx="4.483" cy="10.298" rx="4.483" ry="10.298" transform="translate(7.482 2.282)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="선_491" data-name="선 491" x2="20.434" transform="translate(1.777 12.499)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <rect id="사각형_339758" data-name="사각형 339758" width="24.601" height="24.601" fill="none"/>
+    </g>
+  </g>
+</svg>

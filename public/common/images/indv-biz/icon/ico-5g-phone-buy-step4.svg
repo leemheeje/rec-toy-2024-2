@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="clip-맞춤형_크기_1">
+      <rect width="64" height="64"/>
+    </clipPath>
+  </defs>
+  <g id="맞춤형_크기_1" data-name="맞춤형 크기 – 1" clip-path="url(#clip-맞춤형_크기_1)">
+    <rect width="64" height="64" fill="#fff"/>
+    <g id="그룹_455909" data-name="그룹 455909" transform="translate(-265.6 -387.876)">
+      <line id="선_456" data-name="선 456" x2="19" transform="translate(288.598 431.876)" fill="none" stroke="#231f20" stroke-linejoin="round" stroke-width="2"/>
+      <path id="패스_840953" data-name="패스 840953" d="M304.6,431.876v-30h-24a10,10,0,0,0-10,10h0v20h7" fill="none" stroke="#231f20" stroke-linejoin="round" stroke-width="2"/>
+      <path id="패스_840954" data-name="패스 840954" d="M280.6,414.876" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="패스_840955" data-name="패스 840955" d="M304.6,431.876v-23h13l7,8v15h-5" fill="none" stroke="#231f20" stroke-linejoin="round" stroke-width="2"/>
+      <circle id="타원_8342" data-name="타원 8342" cx="6" cy="6" r="6" transform="translate(307.598 427.876)" fill="none" stroke="#231f20" stroke-linejoin="round" stroke-width="2"/>
+      <circle id="타원_8343" data-name="타원 8343" cx="6" cy="6" r="6" transform="translate(276.598 427.876)" fill="none" stroke="#231f20" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

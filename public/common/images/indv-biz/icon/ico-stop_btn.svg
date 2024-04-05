@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <filter id="Rectangle_339406" x="7.5" y="0" width="22" height="30" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.031"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_339406-2" x="0.5" y="0" width="22" height="30" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.031"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_457025" data-name="Group 457025" transform="translate(-2353 -1814)">
+    <g id="그룹_457027" data-name="그룹 457027" transform="translate(1)">
+      <rect id="사각형_340747" data-name="사각형 340747" width="30" height="30" rx="15" transform="translate(2352 1814)" fill="#fff" opacity="0.8"/>
+      <g id="그룹_460815" data-name="그룹 460815" transform="translate(44.5 1)">
+        <g transform="matrix(1, 0, 0, 1, 2307.5, 1813)" filter="url(#Rectangle_339406)">
+          <rect id="Rectangle_339406-3" data-name="Rectangle 339406" width="4" height="12" transform="translate(16.5 9)" fill="#666"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 2307.5, 1813)" filter="url(#Rectangle_339406-2)">
+          <rect id="Rectangle_339406-4" data-name="Rectangle 339406" width="4" height="12" transform="translate(9.5 9)" fill="#666"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

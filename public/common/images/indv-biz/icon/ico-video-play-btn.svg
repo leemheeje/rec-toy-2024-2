@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="video_play_button" data-name="video play button" transform="translate(0.5 0.5)">
+    <g id="Media_Person_Picture__Elements_Avatar_24px" data-name="Media / Person Picture / _Elements / Avatar 24px">
+      <g id="Default">
+        <circle id="Circle" cx="12" cy="12" r="12" fill="#fff" stroke="#ddd" stroke-width="1"/>
+        <rect id="Footprint" width="16" height="16" transform="translate(5 4)" fill="rgba(0,0,0,0)"/>
+      </g>
+    </g>
+    <path id="다각형_2" data-name="다각형 2" d="M5.143,1.429a1,1,0,0,1,1.715,0l4.234,7.056A1,1,0,0,1,10.234,10H1.766A1,1,0,0,1,.909,8.486Z" transform="translate(18 6) rotate(90)" fill="#e6007e"/>
+  </g>
+</svg>

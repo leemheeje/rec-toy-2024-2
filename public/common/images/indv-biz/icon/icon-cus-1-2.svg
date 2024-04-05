@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38.26" height="44" viewBox="0 0 38.26 44">
+  <g id="_03" data-name="03" transform="translate(-518.281 163.5)">
+    <g id="Zoom" transform="translate(536.573 -140.491)">
+      <circle id="타원_2" data-name="타원 2" cx="7.5" cy="7.5" r="7.5" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="선_2" data-name="선 2" x2="5.5" y2="5.5" transform="translate(13.054 13.054)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g id="Phone" transform="translate(519.281 -162.5)">
+      <line id="Line_1" data-name="Line 1" x2="2.749" transform="translate(10.819 38.184)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="패스_4" data-name="패스 4" d="M42.867,46.242V51H23.9a5.449,5.449,0,0,1-5.419-5.478V9H33.835" transform="translate(-18.48 -9)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Heart" d="M43.48,9v2.062h2.062" transform="translate(-21.155 -9)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Line_1-2" data-name="Line 1" d="M0,0V14.373" transform="translate(24.387 7.395)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

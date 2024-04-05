@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="그룹_458958" data-name="그룹 458958" transform="translate(-547.682 -172.217)">
+    <g id="그룹_458781" data-name="그룹 458781" transform="translate(-0.108)">
+      <rect id="사각형_2661" data-name="사각형 2661" width="80" height="80" transform="translate(547.79 172.217)" fill="none"/>
+    </g>
+    <g id="그룹_456850" data-name="그룹 456850" transform="translate(560.682 186.217)">
+      <path id="패스_841143" data-name="패스 841143" d="M40.914-76.725H7.074v44.342L19.91-44.052H45.582a7,7,0,0,0,7-7v-14" transform="translate(-7.074 78.902)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="패스_841144" data-name="패스 841144" d="M50.58-64.666h8.168v34.938l-10.5-9.335H26.075a7,7,0,0,1-7-7h4.668" transform="translate(-5.071 80.915)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="패스_841145" data-name="패스 841145" d="M44.074-75.725v3.687h3.687" transform="translate(-0.076 76.725)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <g id="그룹_456443" data-name="그룹 456443" transform="translate(14.003 17.345)">
+        <circle id="타원_8339" data-name="타원 8339" cx="1.75" cy="1.75" r="1.75"/>
+        <circle id="타원_8340" data-name="타원 8340" cx="1.75" cy="1.75" r="1.75" transform="translate(7.001)"/>
+        <circle id="타원_8341" data-name="타원 8341" cx="1.75" cy="1.75" r="1.75" transform="translate(14.003)"/>
+      </g>
+    </g>
+  </g>
+</svg>

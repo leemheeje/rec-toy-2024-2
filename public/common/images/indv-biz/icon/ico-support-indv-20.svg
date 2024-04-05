@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="그룹_458468" data-name="그룹 458468" transform="translate(228 -570)">
+    <g id="_14" data-name="14" transform="translate(-228 570)">
+      <g id="그룹_233" data-name="그룹 233" transform="translate(11.293 24.81)">
+        <path id="패스_287" data-name="패스 287" d="M-161.585,602.466v19.467c0,3.8-3.353,6.882-7.489,6.882H-219v-38.9h44.933" transform="translate(219 -589.919)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="패스_288" data-name="패스 288" d="M-175,589.919v2.509h2.509" transform="translate(229.905 -589.919)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <rect id="사각형_180" data-name="사각형 180" width="80" height="80" fill="none"/>
+      <circle id="타원_41" data-name="타원 41" cx="10.491" cy="10.491" r="10.491" transform="translate(29.509 33.777)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="패스_289" data-name="패스 289" d="M-196,600.853v5.729l2.992,3.147" transform="translate(235.994 -562.305)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <path id="사각형_181" data-name="사각형 181" d="M2.14,0H17.378a2.14,2.14,0,0,1,2.14,2.14V8.682a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2.14A2.14,2.14,0,0,1,2.14,0Z" transform="translate(-197.605 586.243)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

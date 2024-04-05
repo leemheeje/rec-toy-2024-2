@@ -1,0 +1,2488 @@
+@charset "UTF-8";
+/* 유독키예즈 이벤트 */
+.event-pop.pop-hago-subs-detail {
+  background-color: #fff;
+  text-align: left;
+}
+.event-pop.pop-hago-subs-detail .c-card-radio-2 input[type='radio'] + label {
+  display: block;
+  padding: 13px;
+  min-height: auto;
+}
+.event-pop.pop-hago-subs-detail .c-card-radio-2 .info-img {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.event-pop.pop-hago-subs-detail .c-card-radio-2 .info-body {
+  position: relative;
+  margin-top: 17px;
+  margin-bottom: 10px;
+}
+.event-pop.pop-hago-subs-detail .c-radio .icon {
+  overflow: hidden;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-radius: 50%;
+  width: 22px;
+  height: 22px;
+  background-image: none;
+}
+.event-pop.pop-hago-subs-detail .text-c1 {
+  color: #ee3f97;
+}
+.event-pop.pop-hago-subs-detail > .h3 {
+  font-size: 20px;
+  font-weight: 600 !important;
+}
+.event-pop.pop-hago-subs-detail .h4 {
+  font-weight: 600;
+  font-size: 16px;
+  margin-bottom: 15px;
+  margin-top: 20px;
+}
+.event-pop.pop-hago-subs-detail .h3 + .tit-box {
+  margin-top: 16px;
+}
+.event-pop.pop-hago-subs-detail > .h3 + p {
+  color: #aaa;
+  font-size: 13px;
+  margin-top: 15px;
+}
+.event-pop.pop-hago-subs-detail .tit-box {
+  padding: 5px 19px;
+  border-radius: 25px;
+  font-size: 18px;
+  font-weight: 600;
+  background-color: #000;
+  color: #fff;
+  width: 100%;
+  text-align: left;
+  margin-bottom: 25px;
+}
+.event-pop.pop-hago-subs-detail .tit-box.c-pink {
+  background-color: #d10073;
+}
+.event-pop.pop-hago-subs-detail .tit-box + p {
+  margin-top: 15px;
+  font-size: 13px;
+  color: #aaa;
+}
+.event-pop.pop-hago-subs-detail .tit-box > span {
+  color: #f9ee76;
+  padding-right: 6px;
+}
+.event-pop.pop-hago-subs-detail .c-card-list-icon.c-sp-1n + .tit-box {
+  margin-top: 50px;
+}
+.event-pop.pop-hago-subs-detail .c-card-list-icon.c-sp-1n label {
+  padding: 20px;
+}
+.event-pop.pop-hago-subs-detail .c-card-list-icon.c-sp-1n .icon {
+  top: auto;
+  bottom: 62px;
+  left: 20px;
+}
+.event-pop.pop-hago-subs-detail .c-card-list-icon.c-sp-1n .text-radio {
+  display: block;
+}
+.event-pop.pop-hago-subs-detail .c-card-list-icon.c-sp-1n .text-radio > img {
+  width: 100%;
+}
+.event-pop.pop-hago-subs-detail .c-card-list-icon.c-sp-1n .c-radio .info-tit {
+  width: 160px;
+  padding-left: 30px;
+  float: left;
+  font-size: 22px;
+  font-weight: 600;
+  margin-top: 25px;
+}
+.event-pop.pop-hago-subs-detail .c-card-list-icon.c-sp-1n .c-card-box .info-txt {
+  float: left;
+  height: auto;
+  width: calc(100% - 160px);
+  margin-top: 25px;
+  color: #666;
+  min-height: 64px;
+}
+.event-pop.pop-hago-subs-detail .c-card-list-icon.c-sp-5n .c-card-box label {
+  padding: 0;
+  text-align: center;
+}
+.event-pop.pop-hago-subs-detail .c-card-list-icon.c-sp-5n .c-card-box .text-radio > img {
+  width: 48px;
+  height: 48px;
+  margin: 20px auto 0 auto;
+}
+.event-pop.pop-hago-subs-detail .c-card-list-icon.c-sp-5n .c-card-box .icon {
+  top: 85px;
+  left: 50%;
+  margin-left: -11px;
+}
+.event-pop.pop-hago-subs-detail .c-card-box .c-radio input[type='radio'] + label > .icon {
+  border: 2px solid #666;
+  border-radius: 50%;
+}
+.event-pop.pop-hago-subs-detail .c-card-box .c-radio input[type='radio']:checked + label > .icon {
+  border-color: #e6007e !important;
+}
+.event-pop.pop-hago-subs-detail .c-card-box .c-radio input[type='radio']:checked + label > .icon::after {
+  content: '';
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  left: 3px;
+  top: 3px;
+  background-color: #e6007e;
+  border-radius: 50%;
+}
+.event-pop.pop-hago-subs-detail .c-card-list-icon.c-sp-5n .c-card-box .info-tit {
+  padding: 50px 0 30px 0;
+  font-size: 14px;
+  font-weight: 600;
+}
+.event-pop.pop-hago-subs-detail .c-card-list-icon.c-sp-3n {
+  margin-top: 30px;
+  margin-bottom: 35px;
+}
+.event-pop.pop-hago-subs-detail .c-card-list-icon.c-sp-3n + .tit-box {
+  margin-top: 50px;
+}
+.event-pop.pop-hago-subs-detail .c-card-list-icon.c-sp-3n label {
+  padding: 20px 20px 30px 20px;
+}
+.event-pop.pop-hago-subs-detail .c-card-list-icon.c-sp-3n .icon {
+  top: auto;
+  bottom: 55px;
+  left: 20px;
+}
+.event-pop.pop-hago-subs-detail .c-card-list-icon.c-sp-3n .text-radio {
+  display: block;
+}
+.event-pop.pop-hago-subs-detail .c-card-list-icon.c-sp-3n .text-radio > h4 {
+  margin-top: 0;
+}
+.event-pop.pop-hago-subs-detail .c-card-list-icon.c-sp-3n .text-radio > img {
+  width: 100%;
+}
+.event-pop.pop-hago-subs-detail .c-card-list-icon.c-sp-3n .c-radio .info-tit {
+  width: 110px;
+  padding-left: 30px;
+  float: left;
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 17px;
+}
+.event-pop.pop-hago-subs-detail .c-card-list-icon.c-sp-3n .c-card-box .info-txt {
+  float: left;
+  height: auto;
+  width: calc(100% - 110px);
+  margin-top: 18px;
+  color: #666;
+  line-height: 23px;
+  font-size: 16px;
+}
+.event-pop.pop-hago-subs-detail .c-card-list {
+  margin-top: 20px;
+}
+.event-pop.pop-hago-subs-detail .c-card-list + .tit-box {
+  margin-top: 25px;
+}
+.event-pop.pop-hago-subs-detail .c-card-list li + li {
+  margin-top: 15px;
+}
+.event-pop.pop-hago-subs-detail .prod-info::after {
+  content: '';
+  clear: both;
+  display: block;
+}
+.event-pop.pop-hago-subs-detail .info-sub {
+  font-size: 17px;
+  color: #000;
+  line-height: 17px;
+  text-align: left;
+  padding-top: 5px;
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+.event-pop.pop-hago-subs-detail .prod-info .prod-title {
+  float: left;
+  margin-left: 27px;
+  width: auto;
+  height: 100%;
+}
+.event-pop.pop-hago-subs-detail .prod-info .prod-title > strong {
+  font-size: 17px;
+  font-weight: 600;
+  line-height: 17px;
+}
+.event-pop.pop-hago-subs-detail .prod-info dd {
+  width: 63%;
+  font-size: 15px;
+  color: #666;
+  float: left;
+  line-height: 20px;
+  margin-left: 10px;
+}
+.event-pop.pop-hago-subs-detail .c-card-list.sm {
+  display: block;
+  margin-top: 0;
+}
+.event-pop.pop-hago-subs-detail .c-card-list.sm::after {
+  content: '';
+  clear: both;
+  display: block;
+}
+.event-pop.pop-hago-subs-detail .c-card-list.sm > li {
+  width: 49%;
+  float: left;
+  margin-top: 12px;
+}
+.event-pop.pop-hago-subs-detail .c-card-list.sm > li:nth-child(1),
+.event-pop.pop-hago-subs-detail .c-card-list.sm > li:nth-child(2) {
+  margin-top: 0;
+}
+.event-pop.pop-hago-subs-detail .c-card-list.sm > li:nth-child(2),
+.event-pop.pop-hago-subs-detail .c-card-list.sm > li:nth-child(4) {
+  margin-left: 2%;
+}
+.event-pop.pop-hago-subs-detail .c-card-list.sm .info-body .info-img img {
+  width: 100%;
+  height: 100%;
+}
+.event-pop.pop-hago-subs-detail .c-card-list.sm .info-body .prod-info .prod-title {
+  margin-left: 0;
+  width: auto;
+}
+.event-pop.pop-hago-subs-detail .c-card-list.sm .c-card-radio-2 .info-body {
+  margin: 0;
+}
+.event-pop.pop-hago-subs-detail .c-card-list.sm .c-card-radio-2 input[type='radio'] + label {
+  padding: 13px 0 13px 13px;
+}
+.event-pop.pop-hago-subs-detail .c-card-list.sm .c-card-radio-2 .info-body .info-img {
+  width: 27px;
+  height: 27px;
+  float: left;
+  margin-left: 30px;
+  margin-right: 5px;
+}
+.event-pop.pop-hago-subs-detail .c-card-list.sm .c-card-radio-2 .info-body .icon {
+  margin-top: 3px;
+}
+.event-pop.pop-hago-subs-detail .c-card-list.sm .info-body .prod-info .prod-title > strong {
+  line-height: 15px !important;
+  line-height: normal !important;
+}
+.event-pop.pop-hago-subs-detail .c-inpform {
+  display: flex;
+  flex-wrap: wrap;
+  flex: 1 1 auto;
+  flex-direction: column;
+  position: relative;
+  text-align: left;
+  min-height: 40px;
+  width: 100%;
+  border-radius: 8px;
+  height: 54px;
+  background-color: #f5f5f5;
+}
+.event-pop.pop-hago-subs-detail .c-inpform.color-2 {
+  background-color: #f5f5f5;
+}
+.event-pop.pop-hago-subs-detail .c-inpform .c-inpitem {
+  border: none;
+  display: flex;
+  align-items: center;
+  flex: 1;
+  font-size: 14px;
+}
+.event-pop.pop-hago-subs-detail .c-inpform input {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: transparent;
+  width: calc(100% - 38px);
+  margin: 0 19px;
+  padding-top: 15px;
+  font-size: 17px;
+  opacity: 1;
+  line-height: 24px;
+  outline: none;
+  border: none;
+}
+.event-pop.pop-hago-subs-detail .c-inpform input::placeholder {
+  color: #aaaaaa !important;
+  font-size: 17px;
+  font-weight: 300;
+  letter-spacing: -0.5px;
+}
+.event-pop.pop-hago-subs-detail .c-inpform .c-btn-clear {
+  right: 15px;
+}
+.event-pop.pop-hago-subs-detail + .pop-footer {
+  text-align: center;
+  margin-top: 50px;
+}
+/* 유독피아 이벤트 */
+.event-pop.type-2.pop-2 {
+  margin-bottom: 0;
+  height: 100%;
+}
+.event-pop.type-2 .tit-box + p {
+  margin-top: 10px;
+}
+.event-pop.type-2 .back-wrap {
+  background-color: #c8ee65;
+  width: calc(100% + 128px);
+  height: 100%;
+  margin-left: -64px;
+  margin-top: 33px;
+}
+.event-pop.type-2 .c-card-list-icon.sel-list-3 li + li {
+  margin-top: 0;
+}
+.event-pop.type-2 .tit-box.c-pink + .c-card-list-icon.sel-list-1 {
+  margin-top: 33px;
+  overflow-x: hidden;
+}
+.event-pop.type-2 .c-card-list-icon.sel-list-1 .icon {
+  top: 101px;
+  /* bottom: 62px; */
+  left: 88px;
+  width: 40px;
+  height: 40px;
+  border-color: #fff !important;
+}
+.event-pop.type-2 .c-card-list-icon.sel-list-1 .icon::after {
+  width: 26px !important;
+  height: 26px !important;
+  left: 5px !important;
+  top: 5px !important;
+}
+.event-pop.type-2 .tit-box.c-pink {
+  background-color: #d10073;
+  margin-bottom: 0;
+}
+.event-pop.type-2 .text-c1 {
+  color: #ee3f97;
+  font-weight: 600;
+}
+.event-pop.type-2 .c-card-list-icon.sel-list-3 .c-card-box {
+  border: none;
+  background: transparent;
+}
+.event-pop.type-2 .c-card-list-icon.sel-list-3 .text-radio {
+  border: none;
+  padding: 0 0 18px 0;
+}
+.event-pop.type-2 .c-card-list-icon.sel-list-3 input[type='radio'] + label .icon {
+  top: 50%;
+  margin-top: -11px;
+  left: 9%;
+}
+.event-pop.type-2 .c-card-list-icon.sel-list-3 input[type='radio']:checked + label {
+  border: none;
+  background-color: #ed3f98;
+  border-radius: 0;
+}
+.event-pop.type-2 .c-card-list-icon.sel-list-3 input[type='radio']:checked + label .icon {
+  border-color: #fff !important;
+}
+.event-pop.type-2 .c-card-list-icon.sel-list-3 input[type='radio']:checked + label .icon::after {
+  background-color: #fff;
+}
+.event-pop.type-2 .c-card-list-icon.sel-list-3 .text-radio > img {
+  width: 71%;
+  margin-left: 15%;
+}
+.event-pop.type-2 + .pop-footer.img-btn {
+  width: calc(100% + 128px);
+  margin-left: -64px;
+  margin-top: 0;
+  padding-top: 30px;
+  background-color: #c8ee65;
+}
+.event-pop.type-2 + .pop-footer.img-btn img {
+  max-width: 470px;
+  margin-bottom: 70px;
+}
+/* 손석구화보 이벤트 */
+.event-pop.type-3 .event-tit-wrap {
+  background-color: #000;
+  padding: 35px 0;
+  text-align: center;
+  border-radius: 16px;
+  margin-bottom: 15px;
+}
+.event-pop.type-3 .event-tit-wrap > img + h3 {
+  margin-top: 30px;
+}
+.event-pop.type-3 .event-tit-wrap > h3 {
+  font-size: 25px;
+  color: #fff;
+  font-weight: 600;
+}
+.event-pop.type-3 .event-tit-wrap > h3 > .highlight {
+  color: #ed3f98;
+  font-size: 24px;
+  font-weight: 600;
+}
+.event-pop.type-3 .tel-box {
+  display: flex;
+  justify-content: space-between;
+}
+.event-pop.type-3 .mobile-plan {
+  width: 150px;
+}
+.event-pop.type-3 .tel-num {
+  width: calc(100% - 160px);
+}
+.event-pop.type-3 .event-tit-wrap > h3 + p {
+  margin-top: 20px;
+  color: #aaa;
+  font-size: 20px;
+  line-height: 30px;
+}
+.event-pop.type-3 .event-tit-wrap > p:last-child {
+  margin-top: 10px;
+  color: #aaa;
+  font-size: 15px;
+  line-height: 30px;
+}
+.event-pop.type-3 .event-tit-wrap p > b {
+  font-weight: 600;
+}
+.event-pop.type-3 .input-area + .c-terms-wrap {
+  margin-top: 40px;
+}
+.event-pop.type-3 .input-area {
+  /* height: 54px; */
+  border-radius: 8px;
+  margin-bottom: 13px;
+}
+.event-pop.type-3 .c-selform-custom {
+  width: 100%;
+}
+.event-pop.type-3 .input-area input {
+  width: 100%;
+  /* height: 100%; */
+  outline: none;
+  border: none;
+  border-radius: 8px;
+}
+.event-pop.type-3 .c-accordion-type2 {
+  overflow: visible;
+}
+.event-pop.type-3 .hago-accordion-list li + li {
+  margin-top: 19px;
+}
+.event-pop.type-3 .c-accordion-wrap {
+  position: relative;
+}
+.event-pop.type-3 .accordion-group-button {
+  margin-bottom: 16px;
+  text-align: right;
+  position: absolute;
+  right: 0;
+}
+.event-pop.type-3 .c-accordion-type2 .c-accordion-group {
+  border-top: none;
+}
+.event-pop.type-3 .c-accordion-type2 .c-accordion-header {
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+}
+.event-pop.type-3 .c-accordion-type2 .card {
+  margin-top: 19px;
+  border: none;
+}
+.event-pop.type-3 .card-body {
+  padding: 19px;
+  background-color: #f5f5f5;
+  border-radius: 8px;
+}
+.event-pop.type-3 .c-accordion-type2 .c-accordion-group .c-acc-tit {
+  width: 100%;
+}
+.event-pop.type-3 .c-accordion-type2 .c-accordion-group .c-acc-tit .c-hago-checkbox {
+  width: 100%;
+}
+.event-pop.type-3 .c-accordion-type2 .c-accordion-group:last-child {
+  border-bottom: none;
+}
+.event-pop.type-3 .c-terms-wrap.all {
+  margin: 40px 0 20px 0;
+  border-bottom: 1px solid #ebebeb;
+  padding-bottom: 19px;
+}
+.event-pop.type-3 .c-terms-wrap.all .c-hago-checkbox {
+  width: 100%;
+}
+.event-pop.type-3 .c-terms-wrap .c-hago-checkbox label {
+  color: #888;
+  font-weight: 700;
+  font-size: 17px;
+  width: calc(100% - 50px);
+}
+.event-pop.type-3 .c-terms-wrap.all .c-hago-checkbox label {
+  font-size: 18px;
+  color: #000;
+}
+.event-pop.type-3 .c-terms-wrap.all .c-hago-checkbox + .p-h2 {
+  color: #888;
+  font-size: 15px;
+  line-height: 24px;
+  margin-top: 4px;
+  padding-left: 36px;
+}
+.event-pop.type-3 .c-terms-wrap .terms-body {
+  font-size: 12px;
+  line-height: 21px;
+  color: #aaaaaa;
+  max-height: 126px;
+  overflow-y: scroll;
+}
+.event-pop.type-3 .c-terms-wrap .terms-body em {
+  font-weight: 600;
+}
+.event-pop.type-3 input {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: transparent;
+  outline: 0;
+  opacity: 0;
+}
+.event-pop.type-3 .c-hago-checkbox {
+  color: #888;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 37px;
+  /* height: 27px; */
+}
+.event-pop.type-3 .c-hago-checkbox input {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: transparent;
+  outline: 0;
+  opacity: 0;
+}
+.event-pop.type-3 .c-hago-checkbox .chk-icn {
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  border-radius: 50%;
+  width: 27px;
+  height: 27px;
+  border: 1px solid #ebebeb;
+  background-color: #fff;
+}
+.event-pop.type-3 .chk-icn::before,
+.event-pop.type-3 .chk-icn::after {
+  content: '';
+  display: inline-block;
+  position: absolute;
+  width: 2px;
+  height: 0;
+  background-color: #cccccc;
+  transform-origin: left top;
+}
+.event-pop.type-3 .chk-icn::before {
+  top: 12px;
+  left: 6px;
+  transform: rotate(-45deg);
+  height: 5px;
+}
+.event-pop.type-3 .chk-icn::after {
+  top: 17px;
+  left: 11px;
+  transform: rotate(-135deg);
+  height: 11px;
+}
+.event-pop.type-3 .c-hago-checkbox input:checked + label .chk-icn {
+  background-color: #000;
+  border-color: #000;
+}
+.event-pop.type-3 .c-hago-checkbox input:checked + label .chk-icn::before,
+.event-pop.type-3 .c-hago-checkbox input:checked + label .chk-icn::after {
+  background-color: #fff;
+}
+.event-pop.type-3 .p-hago-terms .c-terms-wrap label {
+  color: #888;
+  font-weight: 700;
+  font-size: 15px;
+}
+.event-pop.type-3 .acc-toggle {
+  display: none;
+}
+.event-pop.type-3 .accordion-group-button .btn-acc-toggle {
+  font-size: 0;
+}
+.event-pop.type-3 + .pop-footer .footer-info-list {
+  margin-top: 35px;
+}
+.event-pop.type-3 + .pop-footer .footer-info-list li {
+  font-size: 14px;
+  color: #bbbbbb;
+}
+.evt-agreement .submit-btn,
+.event-pop.type-3 + .pop-footer .submit-btn {
+  background-color: #e6007e;
+  cursor: pointer;
+  width: 408px !important;
+  height: 54px;
+  border-radius: 8px;
+  color: white;
+}
+.evt-agreement .submit-btn.inactive,
+.event-pop.type-3 + .pop-footer .submit-btn.inactive {
+  cursor: default;
+  background-color: #e0e0e0;
+  color: #aaaaaa;
+}
+/* 100원딜 프로모션 이벤트 */
+.evt-100-deal .img-box {
+  position: relative;
+}
+.evt-100-deal .evt-btn {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 140px;
+}
+.evt-100-deal .evt-btn-1 {
+  left: 300px;
+}
+.evt-100-deal .evt-btn-2 {
+  left: 465px;
+}
+.evt-100-deal .deal-checkbox .c-card-box {
+  position: absolute;
+  border: 0;
+  background: none;
+  top: 690px;
+  left: 350px;
+  margin-right: 0;
+  padding: 0 !important;
+}
+.evt-100-deal .deal-checkbox .c-card-box input[type='checkbox'] {
+  width: 72px;
+  height: 72px;
+  cursor: pointer;
+}
+.evt-100-deal .deal-checkbox li:nth-child(2) .c-card-box {
+  left: 670px;
+}
+.evt-100-deal .deal-checkbox li:nth-child(3) .c-card-box {
+  top: 1070px;
+}
+.evt-100-deal .deal-checkbox li:nth-child(4) .c-card-box {
+  top: 1070px;
+  left: 670px;
+}
+.evt-100-deal .deal-checkbox .c-card-box .text-chkbox > .txt {
+  display: none;
+}
+.evt-100-deal .deal-checkbox .c-card-box .icon {
+  overflow: hidden;
+  position: absolute;
+  left: 0;
+  top: 2px;
+  width: 78px;
+  height: 78px;
+  background: url(/hago/images/evt/221101/pc_check.png) no-repeat;
+}
+/* .evt-100-deal .deal-checkbox .c-card-box input[type='checkbox']:checked ~ .text-chkbox .icon {
+  background: url(/hago/images/evt/221101/pc_checked.png) no-repeat;
+} */
+.evt-100-deal .deal-checkbox .c-card-box input[type='checkbox']:checked ~ .text-chkbox .icon {
+  background: url(/hago/images/evt/221207/pc_checked.png) no-repeat;
+}
+.evt-100-deal .deal-checkbox .c-card-box input[type='checkbox']:checked + label {
+  border: 0;
+}
+.evt-100-deal .deal-checkbox .c-card-box label .info-tit {
+  display: none;
+}
+/* 상품 상세보기 버튼 */
+.evt-100-deal .deal-detail {
+  position: absolute;
+  top: 687px;
+  left: 145px;
+  width: 625px;
+  height: 725px;
+}
+.evt-100-deal .deal-detail button {
+  position: absolute;
+  width: 290px;
+  height: 264px;
+  top: 80px;
+  left: 0px;
+}
+.evt-100-deal .deal-detail button span {
+  display: none;
+}
+.evt-100-deal .deal-detail button:nth-of-type(2) {
+  left: 333px;
+}
+.evt-100-deal .deal-detail button:nth-of-type(3) {
+  top: 460px;
+}
+.evt-100-deal .deal-detail button:nth-of-type(4) {
+  top: 460px;
+  left: 333px;
+}
+/* 개인정보 수집, 마케팅 동의 */
+.evt-100-deal .agree-checkbox .c-checkbox {
+  position: absolute;
+  top: 24px;
+  left: 236px;
+  margin-right: 0;
+  padding-left: 0;
+}
+.evt-100-deal .agree-checkbox .c-checkbox input[type='checkbox'] {
+  width: 32px;
+  height: 32px;
+  cursor: pointer;
+}
+.evt-100-deal .agree-checkbox .c-checkbox:nth-child(2) {
+  top: 78px;
+}
+.evt-100-deal .agree-checkbox .txt {
+  display: none;
+}
+.evt-100-deal .agree-checkbox .c-checkbox .icon {
+  overflow: hidden;
+  position: absolute;
+  left: 0;
+  top: 2px;
+  width: 32px;
+  height: 32px;
+  background: none;
+}
+.evt-100-deal .agree-checkbox .c-checkbox input[type='checkbox']:checked ~ .text-chkbox .icon::after {
+  content: '✔';
+  font-size: 25px;
+  width: 33px;
+  height: 42px;
+  text-align: center;
+  position: absolute;
+  left: 0;
+  top: -4px;
+  color: red;
+}
+.evt-100-deal .agree-checkbox button {
+  position: absolute;
+  width: 440px;
+  height: 40px;
+  top: 29px;
+  left: 280px;
+  text-indent: -9999px;
+}
+.evt-100-deal .agree-checkbox button:nth-of-type(2) {
+  top: 84px;
+}
+/* 개인정보, 마케팅 동의 팝업 */
+.agree-pop {
+  max-width: 654px !important;
+}
+/* 설문조사 팝업 */
+.pop-hago.m-bv-modal.survey-pop .modal-content {
+  background-color: transparent;
+}
+.pop-hago.m-bv-modal.survey-pop .survey-box {
+  position: absolute;
+}
+.pop-hago.m-bv-modal.survey-pop .c-radio-group {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.pop-hago.m-bv-modal.survey-pop .c-radio-box {
+  margin-right: 14px;
+}
+.pop-hago.m-bv-modal.survey-pop .c-radio .icon {
+  top: 8px;
+  width: 14px;
+  height: 14px;
+  background: #fff;
+  border-radius: 100%;
+}
+.pop-hago.m-bv-modal.survey-pop .c-radio input[type='radio']:checked ~ .text-radio > .icon,
+.pop-hago.m-bv-modal.survey-pop .c-checkbox input[type='checkbox']:checked ~ .text-chkbox .icon {
+  background: #930597;
+  box-sizing: border-box;
+  border: 3px solid #fff;
+}
+.pop-hago.m-bv-modal.survey-pop .txt-detail {
+  font-size: 19px;
+  color: #fff;
+}
+.pop-hago.m-bv-modal.survey-pop .survey-box.survey-1 {
+  top: 220px;
+  left: 124px;
+}
+.pop-hago.m-bv-modal.survey-pop .survey-box.survey-2 {
+  top: 337px;
+  left: 49px;
+}
+.pop-hago.m-bv-modal.survey-pop .survey-box.survey-3 {
+  top: 455px;
+  left: 83px;
+}
+.pop-hago.m-bv-modal.survey-pop .survey-box.survey-4 {
+  top: 570px;
+  left: 30px;
+  width: 410px;
+}
+.pop-hago.m-bv-modal.survey-pop .survey-box.survey-5 {
+  top: 745px;
+  left: 74px;
+  width: 362px;
+}
+.pop-hago.m-bv-modal.survey-pop .survey-box.survey-6 {
+  top: 915px;
+  left: 65px;
+  width: 370px;
+}
+/* 체크박스 */
+.pop-hago.m-bv-modal.survey-pop .c-card-box {
+  padding: 0 !important;
+  background: none;
+  border: 0;
+  min-height: 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.pop-hago.m-bv-modal.survey-pop .c-card-box > li {
+  display: flex;
+}
+.pop-hago.m-bv-modal.survey-pop .c-checkbox .info-tit {
+  color: #fff;
+  font-size: 19px;
+  font-weight: 100;
+  margin-left: 5px;
+}
+.pop-hago.m-bv-modal.survey-pop .c-checkbox .icon {
+  left: 7px;
+  top: 8px;
+  width: 14px;
+  height: 14px;
+  background: #fff;
+  border-radius: 100%;
+}
+/* 드롭다운 셀렉트박스 */
+.pop-hago.m-bv-modal.survey-pop .c-selform-custom {
+  width: 100%;
+  height: 52px;
+  margin-bottom: 25px;
+}
+.pop-hago.m-bv-modal.survey-pop .c-selform-custom .c-select-btn .select-btn {
+  height: 52px;
+  background: #fff;
+  color: #930597;
+}
+.pop-hago.m-bv-modal.survey-pop .c-selform-custom .c-select-btn .select-btn .txt {
+  font-weight: 600;
+}
+.pop-hago.m-bv-modal.survey-pop .c-selform-custom .c-select-list {
+  top: 35px;
+  height: 150px;
+  overflow-y: scroll;
+}
+.pop-hago.m-bv-modal.survey-pop .c-selform-custom .c-select-list .c-select-option a {
+  padding: 8px 0px;
+  font-size: 15px;
+}
+.pop-hago.m-bv-modal.survey-pop .c-selform-custom .c-select-btn .ico {
+  display: block;
+  width: 15px;
+  height: 10px;
+  margin-left: auto;
+  background: url(/hago/images/evt/221101/arrow.png) no-repeat;
+}
+.pop-hago.m-bv-modal.survey-pop .c-selform-custom.is-active .c-select-btn .select-btn .ico {
+  background: url(/hago/images/evt/221101/arrow.png) no-repeat;
+  transform: rotate(-180deg);
+}
+.pop-hago.m-bv-modal.survey-pop button.survey-pop-btn {
+  position: absolute;
+  width: 345px;
+  height: 75px;
+  top: 1167px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+/* 소문내기 인증하기 팝업*/
+.pop-hago.m-bv-modal.share-confirm-pop .modal-content {
+  background-color: transparent;
+}
+.pop-hago.m-bv-modal.share-confirm-pop .input-area {
+  position: absolute;
+  top: 0;
+}
+.pop-hago.m-bv-modal.share-confirm-pop .c-inpfield {
+  position: absolute;
+  top: 207px;
+  left: 49px;
+}
+.pop-hago.m-bv-modal.share-confirm-pop .c-inpfield .c-label {
+  width: 395px;
+  text-indent: -9999px;
+}
+.pop-hago.m-bv-modal.share-confirm-pop .c-inpfield .c-inp {
+  border-bottom: 0;
+}
+.pop-hago.m-bv-modal.share-confirm-pop .c-inpform {
+  margin-bottom: 15px;
+}
+.pop-hago.m-bv-modal.share-confirm-pop button.share-confirm-btn {
+  position: absolute;
+  width: 350px;
+  height: 75px;
+  bottom: 25px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+/* CGV 월드컵 관람 이벤트 */
+.evt-15 .img-box {
+  position: relative;
+}
+.evt-15 .link-btn {
+  position: absolute;
+  top: 1780px;
+  left: 330px;
+  width: 220px;
+  height: 30px;
+}
+
+/*12월 100원딜 자판기*/
+.evt-100-deal.evt-17 .deal-checkbox .c-card-box {
+  top: 840px;
+}
+.evt-100-deal.evt-17 .deal-checkbox li:nth-child(3) .c-card-box,
+.evt-100-deal.evt-17 .deal-checkbox li:nth-child(4) .c-card-box {
+  top: 1215px;
+}
+.evt-100-deal.evt-17 .agree-checkbox .c-checkbox {
+  top: 32px;
+}
+.evt-100-deal.evt-17 .agree-checkbox .c-checkbox:nth-child(2) {
+  top: 88px;
+}
+.evt-100-deal.evt-17 .deal-checkbox .c-card-box input[type='checkbox']:checked ~ .text-chkbox .icon,
+.evt-100-deal.evt-18 .deal-checkbox .c-card-box input[type='checkbox']:checked ~ .text-chkbox .icon {
+  background: url(/hago/images/evt/221207/pc_checked.png) no-repeat;
+}
+
+/* 상품 상세보기 버튼 */
+.evt-100-deal.evt-17 .deal-detail {
+  top: 757px;
+}
+
+/* 설문조사 팝업 */
+.pop-hago.m-bv-modal.survey-pop.type-2 .survey-box {
+  margin-top: 14px;
+}
+.pop-hago.m-bv-modal.survey-pop.type-2 .c-radio input[type='radio']:checked ~ .text-radio > .icon,
+.pop-hago.m-bv-modal.survey-pop.type-2 .c-checkbox input[type='checkbox']:checked ~ .text-chkbox .icon {
+  background: #124e2b;
+}
+.pop-hago.m-bv-modal.survey-pop.type-2 .c-selform-custom .c-select-btn .select-btn {
+  color: #124e2b;
+}
+.pop-hago.m-bv-modal.survey-pop.type-2 .c-selform-custom .c-select-btn .ico {
+  background: url(/hago/images/evt/221207/arrow.png) no-repeat;
+}
+.pop-hago.m-bv-modal.survey-pop.type-2 .c-selform-custom.is-active .c-select-btn .select-btn .ico {
+  background: url(/hago/images/evt/221207/arrow.png) no-repeat;
+  transform: rotate(-180deg);
+}
+
+/*1월 100원딜 자판기*/
+.evt-100-deal.evt-18 .deal-detail {
+  top: 1057px;
+}
+.evt-100-deal.evt-18 .deal-checkbox .c-card-box {
+  top: 1050px;
+  left: 370px;
+}
+.evt-100-deal.evt-18 .deal-checkbox li:nth-child(3) .c-card-box,
+.evt-100-deal.evt-18 .deal-checkbox li:nth-child(4) .c-card-box {
+  top: 1425px;
+}
+/*2월 100원딜 자판기*/
+.evt-100-deal.evt-19 .deal-detail {
+  height: 1165px;
+  top: 1057px;
+}
+.evt-100-deal.evt-19 .deal-checkbox .c-card-box {
+  top: 1060px;
+  left: 370px;
+}
+.evt-100-deal.evt-19 .deal-checkbox li:nth-child(1) .c-card-box {
+  display: none;
+}
+.evt-100-deal.evt-19 .deal-checkbox li:nth-child(3) .c-card-box,
+.evt-100-deal.evt-19 .deal-checkbox li:nth-child(4) .c-card-box {
+  top: 1465px;
+}
+.evt-100-deal.evt-19 .deal-checkbox li:nth-child(5) .c-card-box {
+  top: 1835px;
+}
+.evt-100-deal .deal-detail button:nth-of-type(1) {
+  display: none;
+}
+.evt-100-deal .deal-detail button:nth-of-type(5) {
+  top: 855px;
+}
+/* 100원딜 상품상세 이미지 팝업*/
+.m-bv-modal.evt-100deal-pop .modal-content {
+  background: none;
+}
+.m-bv-modal.evt-100deal-pop .modal-content .modal-body {
+  overflow-y: scroll;
+}
+.m-bv-modal.evt-100deal-pop .modal-content .modal-body::-webkit-scrollbar {
+  display: block;
+  width: 10px !important;
+}
+.m-bv-modal.evt-100deal-pop .modal-content .modal-body::-webkit-scrollbar-track {
+  padding: 2px 0;
+  background-color: #bebebe;
+}
+.m-bv-modal.evt-100deal-pop .modal-content .modal-body::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  background-color: #7d7d7d;
+}
+
+/* 230202 유독x갤럭시s23 이벤트 */
+.evt-20 .img-box {
+  position: relative;
+}
+.evt-20 .img-box button {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 150px;
+  height: 150px;
+}
+.evt-20 .img-box a.subs-btn {
+  position: absolute;
+  top: 385px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 710px;
+  height: 94px;
+}
+
+/* 100원딜 타입2*/
+.evt-100-deal-type2 .img-box {
+  position: relative;
+}
+.evt-100-deal-type2 .coin-gif {
+  position: absolute;
+  top: 73%;
+  left: 74.9%;
+  width: 205px;
+}
+.evt-100-deal-type2 .logo-container {
+  position: absolute;
+  top: 95px;
+  left: 579px;
+  width: 240px;
+  height: 97px;
+  overflow: hidden;
+}
+.evt-100-deal-type2 .logo-container ul li {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  height: 97px;
+  opacity: 0;
+  transition: 0.5s ease-in-out;
+}
+.evt-100-deal-type2 .logo-container ul li.active {
+  top: 0;
+  opacity: 1;
+}
+.evt-100-deal-type2 .logo-container ul li.up {
+  top: -100%;
+}
+.evt-100-deal-type2 .img-box.deal-checkbox {
+  width: 100%;
+  height: 2948px;
+  background: #000;
+}
+.evt-100-deal-type2 .deal-checkbox .c-card-list-icon {
+  display: block;
+  padding-top: 100px;
+}
+.evt-100-deal-type2 .deal-checkbox .c-card-list-icon li {
+  padding: 0;
+  margin: 0 0 35px 65px;
+  display: block;
+  width: 816px;
+  height: 531px;
+}
+.evt-100-deal-type2 .deal-checkbox .c-card-box {
+  border: 0;
+  background: none;
+  width: 0;
+  padding: 0 !important;
+}
+.evt-100-deal-type2 .deal-checkbox .c-card-box .text-chkbox > .txt {
+  display: none;
+}
+.evt-100-deal-type2 .deal-checkbox .c-card-box input[type='checkbox'] {
+  width: 816px;
+  height: 531px;
+  cursor: pointer;
+}
+.evt-100-deal-type2 .deal-checkbox .c-card-box .icon {
+  width: 816px;
+  height: 531px;
+}
+.evt-100-deal-type2 .deal-checkbox li:nth-child(1) .c-card-box .icon {
+  background: url(/hago/images/evt/230223/slide-item-01.png) no-repeat;
+}
+.evt-100-deal-type2 .deal-checkbox li:nth-child(1) .c-card-box input[type='checkbox']:checked ~ .text-chkbox .icon {
+  background: url(/hago/images/evt/230223/slide-item-01-on.png) no-repeat;
+}
+.evt-100-deal-type2 .deal-checkbox li:nth-child(2) .c-card-box .icon {
+  background: url(/hago/images/evt/230223/slide-item-02.png) no-repeat;
+}
+.evt-100-deal-type2 .deal-checkbox li:nth-child(2) .c-card-box input[type='checkbox']:checked ~ .text-chkbox .icon {
+  background: url(/hago/images/evt/230223/slide-item-02-on.png) no-repeat;
+}
+.evt-100-deal-type2 .deal-checkbox li:nth-child(3) .c-card-box .icon {
+  background: url(/hago/images/evt/230223/slide-item-03.png) no-repeat;
+}
+.evt-100-deal-type2 .deal-checkbox li:nth-child(3) .c-card-box input[type='checkbox']:checked ~ .text-chkbox .icon {
+  background: url(/hago/images/evt/230223/slide-item-03-on.png) no-repeat;
+}
+.evt-100-deal-type2 .deal-checkbox li:nth-child(4) .c-card-box .icon {
+  background: url(/hago/images/evt/230223/slide-item-04.png) no-repeat;
+}
+.evt-100-deal-type2 .deal-checkbox li:nth-child(4) .c-card-box input[type='checkbox']:checked ~ .text-chkbox .icon {
+  background: url(/hago/images/evt/230223/slide-item-04-on.png) no-repeat;
+}
+.evt-100-deal-type2 .deal-checkbox li:nth-child(5) .c-card-box .icon {
+  background: url(/hago/images/evt/230223/slide-item-05.png) no-repeat;
+}
+.evt-100-deal-type2 .deal-checkbox li:nth-child(5) .c-card-box input[type='checkbox']:checked ~ .text-chkbox .icon {
+  background: url(/hago/images/evt/230223/slide-item-05-on.png) no-repeat;
+}
+.evt-100-deal-type2 .deal-checkbox .c-card-box input[type='checkbox']:checked + label {
+  border: 0;
+}
+.evt-100-deal-type2 .deal-checkbox .c-card-box label .info-tit {
+  display: none;
+}
+.evt-100-deal-type2 .deal-detail {
+  position: absolute;
+  top: 104px;
+  left: 0;
+  width: 100%;
+  height: 2790px;
+}
+.evt-100-deal-type2 .deal-detail button {
+  position: relative;
+  width: 160px;
+  height: 155px;
+  top: 0;
+  left: 50%;
+  display: block;
+  margin-bottom: 408px;
+  transform: translateX(-50%);
+  z-index: 5;
+}
+.evt-100-deal-type2 .deal-detail button span {
+  display: none;
+}
+
+/* 4월 100원 딜 */
+.evt-22.evt-100-deal-type2 .img-box.deal-checkbox {
+  width: 100%;
+  height: auto;
+  background: #000;
+}
+.evt-22.evt-100-deal-type2 .deal-checkbox .c-card-list-icon {
+  display: block;
+  padding-top: 100px;
+  position: absolute;
+  top: 0;
+}
+.evt-22.evt-100-deal-type2 .deal-checkbox li:nth-child(1) .c-card-box .icon {
+  background: url(/hago/images/evt/230330/slide-item-01.png) no-repeat;
+}
+.evt-22.evt-100-deal-type2
+  .deal-checkbox
+  li:nth-child(1)
+  .c-card-box
+  input[type='checkbox']:checked
+  ~ .text-chkbox
+  .icon {
+  background: url(/hago/images/evt/230330/slide-item-01-on.png) no-repeat;
+}
+.evt-22.evt-100-deal-type2 .deal-checkbox li:nth-child(2) .c-card-box .icon {
+  background: url(/hago/images/evt/230330/slide-item-02.png) no-repeat;
+}
+.evt-22.evt-100-deal-type2
+  .deal-checkbox
+  li:nth-child(2)
+  .c-card-box
+  input[type='checkbox']:checked
+  ~ .text-chkbox
+  .icon {
+  background: url(/hago/images/evt/230330/slide-item-02-on.png) no-repeat;
+}
+.evt-22.evt-100-deal-type2 .deal-checkbox li:nth-child(3) .c-card-box .icon {
+  background: url(/hago/images/evt/230330/slide-item-03.png) no-repeat;
+}
+.evt-22.evt-100-deal-type2
+  .deal-checkbox
+  li:nth-child(3)
+  .c-card-box
+  input[type='checkbox']:checked
+  ~ .text-chkbox
+  .icon {
+  background: url(/hago/images/evt/230330/slide-item-03-on.png) no-repeat;
+}
+.evt-22.evt-100-deal-type2 .deal-checkbox li:nth-child(4) .c-card-box .icon {
+  background: url(/hago/images/evt/230330/slide-item-04.png) no-repeat;
+}
+.evt-22.evt-100-deal-type2
+  .deal-checkbox
+  li:nth-child(4)
+  .c-card-box
+  input[type='checkbox']:checked
+  ~ .text-chkbox
+  .icon {
+  background: url(/hago/images/evt/230330/slide-item-04-on.png) no-repeat;
+}
+.evt-22.evt-100-deal-type2 .deal-checkbox li:nth-child(5) .c-card-box .icon {
+  background: url(/hago/images/evt/230330/slide-item-05.png) no-repeat;
+}
+.evt-22.evt-100-deal-type2
+  .deal-checkbox
+  li:nth-child(5)
+  .c-card-box
+  input[type='checkbox']:checked
+  ~ .text-chkbox
+  .icon {
+  background: url(/hago/images/evt/230330/slide-item-05-on.png) no-repeat;
+}
+.evt-22.evt-100-deal-type2 .deal-checkbox li:nth-child(6) .c-card-box .icon {
+  background: url(/hago/images/evt/230330/slide-item-06.png) no-repeat;
+}
+.evt-22.evt-100-deal-type2
+  .deal-checkbox
+  li:nth-child(6)
+  .c-card-box
+  input[type='checkbox']:checked
+  ~ .text-chkbox
+  .icon {
+  background: url(/hago/images/evt/230330/slide-item-06-on.png) no-repeat;
+}
+.evt-22 .m-h-gif {
+  width: 146px !important;
+  height: 148px;
+  position: absolute;
+  top: 2936px;
+  left: 50%;
+  z-index: 100;
+  border-radius: 50%;
+  margin-left: -76px;
+}
+.evt-22 .l-wsj {
+  top: 10px !important;
+  z-index: 100 !important;
+}
+
+/* 230418 라이프콕 4000원 이벤트 */
+.evt-23 .img-box {
+  position: relative;
+}
+.evt-tab-btn {
+  display: flex;
+}
+.evt-slick {
+  position: absolute;
+  top: 80px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.evt-slick .m-vueSlickCarousel.multiple-type-default,
+.evt-slick .m-vueSlickCarousel.multiple-type-default .slick-list {
+  width: 817px;
+}
+.evt-slick .m-vueSlickCarousel .slick-dots li .custom-dot {
+  width: 17px;
+  height: 17px;
+  border: 0;
+  border-radius: 50%;
+  background-color: #cccccc;
+  margin-right: 9px;
+}
+.evt-slick .m-vueSlickCarousel .slick-dots li.slick-active .custom-dot {
+  background-color: #7c3ac7;
+}
+.evt-slick .m-vueSlickCarousel .arrow-slick-2 {
+  height: 60px;
+  background: 0;
+  border-radius: 0;
+  box-shadow: 2px 3px 10px rgba(0, 0, 0, 0);
+}
+.evt-slick .m-vueSlickCarousel .slick-arrow.slick-prev {
+  left: 15px;
+}
+.evt-slick .m-vueSlickCarousel .slick-arrow.slick-next {
+  right: 40px;
+}
+.evt-slick .m-vueSlickCarousel .arrow-slick-2.slick-prev:before,
+.evt-slick .m-vueSlickCarousel .arrow-slick-2.slick-prev:after,
+.evt-slick .m-vueSlickCarousel .arrow-slick-2.slick-next:before,
+.evt-slick .m-vueSlickCarousel .arrow-slick-2.slick-next:after {
+  content: '';
+  overflow: visible;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  width: 34px;
+  height: 2px;
+  transform: rotate(-45deg);
+  margin-top: -9px;
+  margin-left: -5px;
+  color: #000;
+  background: #000;
+}
+.evt-slick .m-vueSlickCarousel .arrow-slick-2.slick-prev:after {
+  transform: rotate(-135deg);
+  top: 89%;
+}
+.evt-slick .m-vueSlickCarousel .arrow-slick-2.slick-next:before {
+  transform: rotate(45deg);
+}
+.evt-slick .m-vueSlickCarousel .arrow-slick-2.slick-next:after {
+  transform: rotate(135deg);
+  top: 89%;
+}
+.evt-slick .m-vueSlickCarousel .arrow-slick-2:hover,
+.evt-slick .m-vueSlickCarousel .arrow-slick-2:focus {
+  box-shadow: 2px 3px 10px rgba(0, 0, 0, 0) !important;
+  outline: none !important;
+}
+.evt-23 .evt-slick .m-vueSlickCarousel .slick-dots li .custom-dot:before {
+  content: none;
+}
+.evt-23 .evt-slick .m-vueSlickCarousel .slick-dots li.slick-active .custom-dot:before {
+  content: none;
+}
+.evt-23 .evt-btn a {
+  width: 720px;
+  height: 115px;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.evt-23 .evt-btn .evt-btn-01 {
+  top: 1063px;
+}
+.evt-23 .evt-btn .evt-btn-02 {
+  top: 2078px;
+}
+.evt-23 .evt-btn .evt-btn-03 {
+  top: 3091px;
+}
+.evt-23 .evt-btn .evt-btn-04 {
+  top: 4105px;
+}
+.evt-23 .evt-btn .evt-btn-05 {
+  top: 5120px;
+}
+.evt-23 .evt-btn2 a {
+  height: 151px;
+  top: 1148px;
+}
+.evt-23 .evt-btn2 .logo-gif {
+  position: absolute;
+  top: 444px;
+  left: 381px;
+  border-radius: 50%;
+  width: 148px !important;
+  height: 149px;
+}
+/* 5월 100원딜 이벤트 */
+.evt-100-deal-type2 .img-box.deal-checkbox {
+  height: 2410px;
+  background: #fdfcba;
+}
+.evt-24.evt-100-deal-type2 .deal-checkbox li:nth-child(1) .c-card-box .icon {
+  background: url(/hago/images/evt/230428/item-01.png) no-repeat;
+}
+.evt-24.evt-100-deal-type2
+  .deal-checkbox
+  li:nth-child(1)
+  .c-card-box
+  input[type='checkbox']:checked
+  ~ .text-chkbox
+  .icon {
+  background: url(/hago/images/evt/230428/item-01-on.png) no-repeat;
+}
+.evt-24.evt-100-deal-type2 .deal-checkbox li:nth-child(2) .c-card-box .icon {
+  background: url(/hago/images/evt/230428/item-02.png) no-repeat;
+}
+.evt-24.evt-100-deal-type2
+  .deal-checkbox
+  li:nth-child(2)
+  .c-card-box
+  input[type='checkbox']:checked
+  ~ .text-chkbox
+  .icon {
+  background: url(/hago/images/evt/230428/item-02-on.png) no-repeat;
+}
+.evt-24.evt-100-deal-type2 .deal-checkbox li:nth-child(3) .c-card-box .icon {
+  background: url(/hago/images/evt/230428/item-03.png) no-repeat;
+}
+.evt-24.evt-100-deal-type2
+  .deal-checkbox
+  li:nth-child(3)
+  .c-card-box
+  input[type='checkbox']:checked
+  ~ .text-chkbox
+  .icon {
+  background: url(/hago/images/evt/230428/item-03-on.png) no-repeat;
+}
+.evt-24.evt-100-deal-type2 .deal-checkbox li:nth-child(4) .c-card-box .icon {
+  background: url(/hago/images/evt/230428/item-04.png) no-repeat;
+}
+.evt-24.evt-100-deal-type2
+  .deal-checkbox
+  li:nth-child(4)
+  .c-card-box
+  input[type='checkbox']:checked
+  ~ .text-chkbox
+  .icon {
+  background: url(/hago/images/evt/230428/item-04-on.png) no-repeat;
+}
+/* 230526 6월 100원딜 */
+.evt-25.evt-100-deal-type2 .logo-container {
+  position: absolute;
+  top: 77px;
+  left: 373px;
+  width: 263px;
+  height: 56px;
+  overflow: hidden;
+}
+.evt-25.evt-100-deal-type2 .img-box.deal-checkbox {
+  width: 100%;
+  height: auto;
+  background: #7ef2b0;
+}
+.evt-25.evt-100-deal-type2 .deal-checkbox .c-card-list-icon {
+  display: block;
+  padding-top: 50px;
+  position: absolute;
+  top: 0;
+}
+.evt-25.evt-100-deal-type2 .deal-checkbox .c-card-list-icon li {
+  padding: 0;
+  margin: 0 0 35px 105px;
+  display: block;
+  width: 738px;
+  height: 506px;
+}
+.evt-25.evt-100-deal-type2 .deal-checkbox .c-card-box input[type='checkbox'] {
+  width: 738px;
+  height: 506px;
+  cursor: pointer;
+}
+.evt-25.evt-100-deal-type2 .deal-checkbox .c-card-box .icon {
+  width: 738px;
+  height: 506px;
+}
+.evt-25.evt-100-deal-type2 .deal-checkbox li:nth-child(1) .c-card-box .icon {
+  background: url(/hago/images/evt/230526/item-01.png) no-repeat;
+}
+.evt-25.evt-100-deal-type2
+  .deal-checkbox
+  li:nth-child(1)
+  .c-card-box
+  input[type='checkbox']:checked
+  ~ .text-chkbox
+  .icon {
+  background: url(/hago/images/evt/230526/item-01-on.png) no-repeat;
+}
+.evt-25.evt-100-deal-type2 .deal-checkbox li:nth-child(2) .c-card-box .icon {
+  background: url(/hago/images/evt/230526/item-02.png) no-repeat;
+}
+.evt-25.evt-100-deal-type2
+  .deal-checkbox
+  li:nth-child(2)
+  .c-card-box
+  input[type='checkbox']:checked
+  ~ .text-chkbox
+  .icon {
+  background: url(/hago/images/evt/230526/item-02-on.png) no-repeat;
+}
+.evt-25.evt-100-deal-type2 .deal-checkbox li:nth-child(3) .c-card-box .icon {
+  background: url(/hago/images/evt/230526/item-03.png) no-repeat;
+}
+.evt-25.evt-100-deal-type2
+  .deal-checkbox
+  li:nth-child(3)
+  .c-card-box
+  input[type='checkbox']:checked
+  ~ .text-chkbox
+  .icon {
+  background: url(/hago/images/evt/230526/item-03-on.png) no-repeat;
+}
+.evt-25.evt-100-deal-type2 .deal-checkbox li:nth-child(4) .c-card-box .icon {
+  background: url(/hago/images/evt/230526/item-04.png) no-repeat;
+}
+.evt-25.evt-100-deal-type2
+  .deal-checkbox
+  li:nth-child(4)
+  .c-card-box
+  input[type='checkbox']:checked
+  ~ .text-chkbox
+  .icon {
+  background: url(/hago/images/evt/230526/item-04-on.png) no-repeat;
+}
+.evt-25.evt-100-deal-type2 .deal-checkbox li:nth-child(5) .c-card-box .icon {
+  background: url(/hago/images/evt/230526/item-05.png) no-repeat;
+}
+.evt-25.evt-100-deal-type2
+  .deal-checkbox
+  li:nth-child(5)
+  .c-card-box
+  input[type='checkbox']:checked
+  ~ .text-chkbox
+  .icon {
+  background: url(/hago/images/evt/230526/item-05-on.png) no-repeat;
+}
+.evt-25.evt-100-deal-type2 .deal-checkbox li:nth-child(6) .c-card-box .icon {
+  background: url(/hago/images/evt/230526/item-06.png) no-repeat;
+}
+.evt-25.evt-100-deal-type2
+  .deal-checkbox
+  li:nth-child(6)
+  .c-card-box
+  input[type='checkbox']:checked
+  ~ .text-chkbox
+  .icon {
+  background: url(/hago/images/evt/230526/item-06-on.png) no-repeat;
+}
+.evt-25.evt-100-deal-type2 .deal-detail {
+  top: 53px;
+  height: auto;
+}
+.evt-25.evt-100-deal-type2 .deal-detail button {
+  margin-bottom: 388px;
+}
+
+/* 랭킹닭컴 2종 */
+.evt-25.evt-100-deal-type2 .deal-checkbox2 .deal-detail button {
+  margin-bottom: 418px;
+}
+.evt-25.evt-100-deal-type2 .deal-checkbox2 .c-card-list-icon li,
+.evt-25.evt-100-deal-type2 .deal-checkbox2 .c-card-box .icon,
+.evt-25.evt-100-deal-type2 .deal-checkbox2 .c-card-box input[type='checkbox'] {
+  height: 537px;
+}
+.evt-25.evt-100-deal-type2 .deal-checkbox2 li:nth-child(1) .c-card-box .icon {
+  background: url(/hago/images/evt/230526/item2-01.png) no-repeat;
+}
+.evt-25.evt-100-deal-type2
+  .deal-checkbox2
+  li:nth-child(1)
+  .c-card-box
+  input[type='checkbox']:checked
+  ~ .text-chkbox
+  .icon {
+  background: url(/hago/images/evt/230526/item2-01-on.png) no-repeat;
+}
+.evt-25.evt-100-deal-type2 .deal-checkbox2 li:nth-child(2) .c-card-box .icon {
+  background: url(/hago/images/evt/230526/item2-02.png) no-repeat;
+}
+.evt-25.evt-100-deal-type2
+  .deal-checkbox2
+  li:nth-child(2)
+  .c-card-box
+  input[type='checkbox']:checked
+  ~ .text-chkbox
+  .icon {
+  background: url(/hago/images/evt/230526/item2-02-on.png) no-repeat;
+}
+/* 7월 100원 이벤트 */
+.evt-28.evt-100-deal-type3 .img-box.deal-checkbox {
+  position: relative;
+  height: 4750px;
+  padding-top: 100px;
+  background-color: #fff;
+}
+.evt-100-deal-type3 .deal-checkbox input {
+  display: none;
+}
+.evt-100-deal-type3 .deal-checkbox input + label {
+  position: relative;
+  display: inline-block;
+  width: 808px;
+  height: 541px;
+  border: 0;
+  margin-bottom: 30px;
+  cursor: pointer;
+}
+.evt-100-deal-type3 .deal-detail {
+  position: absolute;
+  top: 100px;
+  width: 100%;
+  height: 3970px;
+}
+
+.evt-28.evt-100-deal-type3 .deal-detail button {
+  position: relative;
+  width: 160px;
+  height: 155px;
+  top: 0;
+  left: 50%;
+  display: block;
+  transform: translateX(-50%);
+  z-index: 5;
+  margin-bottom: 416px;
+}
+
+.evt-28.evt-100-deal-type3 .deal-detail button:nth-child(1) {
+  pointer-events: none;
+}
+
+.evt-100-deal-type3 .deal-detail button span {
+  display: none;
+}
+.evt-28.evt-100-deal-type3 .deal-checkbox input#item1 + label {
+  width: 850px;
+  height: 541px;
+  margin-left: 40px;
+  background: url(/hago/images/evt/230630/item-01.png) no-repeat;
+  pointer-events: none;
+}
+.evt-28.evt-100-deal-type3 .deal-checkbox input#item1:checked + label {
+  background: url(/hago/images/evt/230630/item-01-on.png) no-repeat;
+}
+
+.evt-28.evt-100-deal-type3 .deal-checkbox input#item2 + label {
+  background: url(/hago/images/evt/230630/item-02.png) no-repeat;
+}
+.evt-28.evt-100-deal-type3 .deal-checkbox input#item2:checked + label {
+  background: url(/hago/images/evt/230630/item-02-on.png) no-repeat;
+}
+.evt-28.evt-100-deal-type3 .deal-checkbox input#item3 + label {
+  background: url(/hago/images/evt/230630/item-03.png) no-repeat;
+}
+.evt-28.evt-100-deal-type3 .deal-checkbox input#item3:checked + label {
+  background: url(/hago/images/evt/230630/item-03-on.png) no-repeat;
+}
+.evt-28.evt-100-deal-type3 .deal-checkbox input#item4 + label {
+  background: url(/hago/images/evt/230630/item-04.png) no-repeat;
+}
+.evt-28.evt-100-deal-type3 .deal-checkbox input#item4:checked + label {
+  background: url(/hago/images/evt/230630/item-04-on.png) no-repeat;
+}
+.evt-28.evt-100-deal-type3 .deal-checkbox input#item5 + label {
+  background: url(/hago/images/evt/230630/item-05.png) no-repeat;
+}
+.evt-28.evt-100-deal-type3 .deal-checkbox input#item5:checked + label {
+  background: url(/hago/images/evt/230630/item-05-on.png) no-repeat;
+}
+.evt-28.evt-100-deal-type3 .deal-checkbox input#item6 + label {
+  background: url(/hago/images/evt/230630/item-06.png) no-repeat;
+}
+.evt-28.evt-100-deal-type3 .deal-checkbox input#item6:checked + label {
+  background: url(/hago/images/evt/230630/item-06-on.png) no-repeat;
+}
+.evt-28.evt-100-deal-type3 .deal-checkbox input#item7 + label {
+  background: url(/hago/images/evt/230630/item-07.png) no-repeat;
+}
+.evt-28.evt-100-deal-type3 .deal-checkbox input#item7:checked + label {
+  background: url(/hago/images/evt/230630/item-07-on.png) no-repeat;
+}
+
+.evt-28.evt-100-deal-type3 .deal-checkbox input#item8 + label {
+  background: url(/hago/images/evt/230630/item-08.png) no-repeat;
+}
+.evt-28.evt-100-deal-type3 .deal-checkbox input#item8:checked + label {
+  background: url(/hago/images/evt/230630/item-08-on.png) no-repeat;
+}
+
+.evt-28.evt-100-deal-type3 .deal-checkbox input#item9 + label {
+  background: url(/hago/images/evt/230630/item-09.png) no-repeat;
+}
+.evt-28.evt-100-deal-type3 .deal-checkbox input#item9:checked + label {
+  background: url(/hago/images/evt/230630/item-09-on.png) no-repeat;
+}
+
+.evt-28.evt-100-deal-type3 .deal-checkbox input#item10 + label {
+  background: url(/hago/images/evt/230630/item-10.png) no-repeat;
+}
+.evt-28.evt-100-deal-type3 .deal-checkbox input#item10:checked + label {
+  background: url(/hago/images/evt/230630/item-10-on.png) no-repeat;
+}
+
+/* evt-29 */
+
+.evt-29 .evt-radio {
+  height: 33px;
+  position: absolute;
+  top: 37.75%;
+}
+
+.evt-29 .evt-radio .c-radio-box {
+  position: absolute;
+  width: 33px;
+  height: 35px;
+}
+
+.evt-29 .evt-radio .c-radio-box:nth-child(1),
+.evt-29 .evt-radio .c-radio-box:nth-child(2) {
+  top: -352px;
+}
+
+.evt-29 .evt-radio .c-radio-box:nth-child(2),
+.evt-29 .evt-radio .c-radio-box:nth-child(4) {
+  left: 460px;
+}
+
+.evt-29 .evt-radio .c-radio-box:nth-child(1),
+.evt-29 .evt-radio .c-radio-box:nth-child(3) {
+  left: 125px;
+}
+
+.evt-29 .evt-radio .c-radio-box:nth-child(3),
+.evt-29 .evt-radio .c-radio-box:nth-child(4) {
+  top: -156px;
+}
+
+.evt-29 .c-radio-box input[type='radio'] {
+  cursor: pointer;
+  width: 33px;
+  height: 33px;
+}
+
+.evt-29 .c-radio-box .icon {
+  width: 33px;
+  height: 33px;
+}
+
+.evt-29 .c-radio-box .icon {
+  background: url(/hago/images/evt/230706/radio-button.png) no-repeat;
+  background-size: 100%;
+}
+
+.evt-29 .c-radio-box input[type='radio']:checked ~ .text-radio > .icon {
+  background: url(/hago/images/evt/230706/radio-button-on.png) no-repeat;
+  background-size: 100%;
+  background-position-y: 0;
+}
+
+.evt-29 .udoc-ott-conects {
+  position: absolute;
+  top: 16.5%;
+  right: 17px;
+  width: 160px;
+  height: 200px;
+}
+
+.evt-29-pop .c-btn-close {
+  display: none;
+}
+
+/* evt-31 */
+
+.evt-31 .deal-checkbox {
+  position: relative;
+}
+
+.evt-31 #item1,
+.evt-31 #item1 + label,
+.evt-31.evt-100-deal-type3 .deal-detail button:nth-child(1) {
+  pointer-events: none;
+}
+
+.evt-31.evt-100-deal-type3 .deal-detail button {
+  position: relative;
+  width: 160px;
+  height: 155px;
+  top: 0;
+  left: 50%;
+  display: block;
+  transform: translateX(-50%);
+  z-index: 5;
+  margin-bottom: 463px;
+}
+
+.evt-31.evt-100-deal-type3 .deal-detail button:nth-child(1) {
+  top: 20px;
+}
+
+.evt-100-deal-type3 .deal-detail button span {
+  display: none;
+}
+
+.evt-31 .deal-detail {
+  background: url('/hago/images/evt/230720/background.jpg') no-repeat;
+  top: 0;
+  height: 3680px;
+}
+
+.evt-31.evt-100-deal-type3 .deal-checkbox input + label {
+  background-position-x: center !important;
+  width: 870px;
+  height: 580px;
+  border-radius: 20px;
+}
+
+.evt-31.evt-100-deal-type3 .deal-checkbox + .img-box > a > img {
+  position: relative;
+  top: 20px;
+}
+
+.evt-31.evt-100-deal-type3 .deal-checkbox input#item1 + label {
+  background: url(/hago/images/evt/230720/item-00.png) no-repeat;
+}
+.evt-31.evt-100-deal-type3 .deal-checkbox input#item1:checked + label {
+  background: url(/hago/images/evt/230720/item-00-on.png) no-repeat;
+}
+
+.evt-31.evt-100-deal-type3 .deal-checkbox input#item2 + label {
+  background: url(/hago/images/evt/230720/item-01.png) no-repeat;
+}
+.evt-31.evt-100-deal-type3 .deal-checkbox input#item2:checked + label {
+  background: url(/hago/images/evt/230720/item-01-on.png) no-repeat;
+}
+.evt-31.evt-100-deal-type3 .deal-checkbox input#item3 + label {
+  background: url(/hago/images/evt/230720/item-02.png) no-repeat;
+}
+.evt-31.evt-100-deal-type3 .deal-checkbox input#item3:checked + label {
+  background: url(/hago/images/evt/230720/item-02-on.png) no-repeat;
+}
+.evt-31.evt-100-deal-type3 .deal-checkbox input#item4 + label {
+  background: url(/hago/images/evt/230720/item-03.png) no-repeat;
+}
+.evt-31.evt-100-deal-type3 .deal-checkbox input#item4:checked + label {
+  background: url(/hago/images/evt/230720/item-03-on.png) no-repeat;
+}
+
+.evt-31.evt-100-deal-type3 .deal-checkbox input#item6 + label {
+  background: url(/hago/images/evt/230720/item-06.png) no-repeat;
+}
+.evt-31.evt-100-deal-type3 .deal-checkbox input#item6:checked + label {
+  background: url(/hago/images/evt/230720/item-06-on.png) no-repeat;
+}
+
+.evt-31.evt-100-deal-type3 .deal-checkbox input#item7 + label {
+  background: url(/hago/images/evt/230720/item-07.png) no-repeat;
+}
+.evt-31.evt-100-deal-type3 .deal-checkbox input#item7:checked + label {
+  background: url(/hago/images/evt/230720/item-07-on.png) no-repeat;
+}
+
+.evt-31.evt-100-deal-type3 .deal-checkbox input#item8 + label {
+  background: url(/hago/images/evt/230720/item-08.png) no-repeat;
+}
+.evt-31.evt-100-deal-type3 .deal-checkbox input#item8:checked + label {
+  background: url(/hago/images/evt/230720/item-08-on.png) no-repeat;
+}
+
+.evt-31.evt-100-deal-type3 .deal-checkbox input#item9 + label {
+  background: url(/hago/images/evt/230720/item-09.png) no-repeat;
+}
+.evt-31.evt-100-deal-type3 .deal-checkbox input#item9:checked + label {
+  background: url(/hago/images/evt/230720/item-09-on.png) no-repeat;
+}
+
+.evt-31 .m-vueSlickCarousel .slick-arrow:before,
+.evt-31 .m-vueSlickCarousel .slick-dots,
+.evt-31 .m-vueSlickCarousel .slick-arrow {
+  display: none !important;
+}
+
+.evt-31 .evt31-slider {
+  max-width: 186px;
+  position: absolute;
+  top: 763px;
+  left: 442px;
+  height: auto;
+}
+
+.evt-31 .m-vueSlickCarousel.single-type-full .slide-item {
+  margin: 5px 0;
+  height: 75px;
+}
+
+.evt-31 .rolling-section {
+  position: absolute;
+  top: 870px;
+  left: 0;
+  overflow: hidden;
+  width: 100%;
+}
+
+.evt-31 .rolling-section .num_count {
+  overflow: hidden;
+  position: relative;
+  display: inline-block;
+  height: 175px;
+  opacity: 0;
+  transition: opacity 0.5s 1s;
+  display: flex;
+  justify-content: space-between;
+  margin: 30px auto 0 auto;
+  width: 600px;
+}
+
+.evt-31 .rolling-section.active .num_count {
+  opacity: 1;
+}
+
+.evt-31 .rolling-section .num_count::after {
+  clear: both;
+  display: block;
+  content: '';
+}
+
+.evt-31 .rolling-section .num_count .count_box {
+  animation: count_num 2.8s 1 ease-out both paused;
+}
+
+.evt-31 .rolling-section .num_count .count_box.active {
+  animation-play-state: running;
+}
+
+.evt-31 .rolling-section .num_count .count_box span {
+  display: block;
+  color: #000;
+  font-size: 165px;
+  line-height: 199px;
+  font-weight: bold;
+  text-indent: 49px;
+}
+
+@keyframes count_num {
+  0% {
+    transform: translateY(-4800px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+.posit-rel {
+  position: relative;
+}
+
+.evt-32 {
+  overflow: hidden;
+}
+
+.evt-32 .m-vueSlickCarousel {
+  max-width: 630px;
+  width: 100% !important;
+  position: absolute;
+  top: 0;
+  overflow: visible;
+}
+
+.evt-32 .flex-set {
+  display: flex;
+  justify-content: center;
+}
+
+.evt-32 .evt-32-swiper .slick-dots li .custom-dot {
+  width: 100%;
+  height: 80px;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+}
+
+.evt-32 .evt-32-swiper .slick-dots {
+  top: 0;
+  bottom: inherit;
+}
+
+.evt-32 .evt-32-swiper-3 .slick-dots {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  top: 0;
+  bottom: inherit;
+}
+
+.evt-32 .evt-32-swiper .slide-item {
+  padding-top: 140px;
+}
+
+.evt-32 .evt-32-swiper-2 .slide-item {
+  top: 0 !important;
+}
+
+.evt-32 .evt-32-swiper-3 .slide-item {
+  top: 240px !important;
+}
+
+.evt-32 .m-vueSlickCarousel .slick-arrow.slick-disabled {
+  display: block !important;
+}
+
+.evt-32 .evt-32-swiper .slick-dots li:nth-child(1) .custom-dot:nth-child(1) {
+  background: url(/hago/images/evt/230728/tab1-01-off.png) no-repeat;
+  width: 203px;
+}
+
+.evt-32 .evt-32-swiper .slick-dots li:nth-child(1).slick-active .custom-dot {
+  background: url(/hago/images/evt/230728/tab1-01-on.png) no-repeat;
+}
+
+.evt-32 .evt-32-swiper .slick-dots li:nth-child(2) .custom-dot:nth-child(1) {
+  width: 146px;
+  background: url(/hago/images/evt/230728/tab1-02-off.png) no-repeat;
+}
+
+.evt-32 .evt-32-swiper .slick-dots li:nth-child(2).slick-active .custom-dot {
+  background: url(/hago/images/evt/230728/tab1-02-on.png) no-repeat;
+}
+
+.evt-32 .evt-32-swiper .slick-dots li:nth-child(3) .custom-dot:nth-child(1) {
+  width: 167px;
+  background: url(/hago/images/evt/230728/tab1-03-off.png) no-repeat;
+}
+
+.evt-32 .evt-32-swiper .slick-dots li:nth-child(3).slick-active .custom-dot {
+  background: url(/hago/images/evt/230728/tab1-03-on.png) no-repeat;
+}
+
+.evt-32 .evt-32-swiper .slick-dots li .custom-dot:before,
+.evt-32 .evt-32-swiper-3 .slick-dots li .custom-dot:before {
+  opacity: 0;
+}
+
+.evt-32 .m-vueSlickCarousel.multiple-type-default .slick-list {
+  width: 100%;
+  height: 100%;
+}
+
+.evt-32 .m-vueSlickCarousel .slick-arrow.slick-prev {
+  left: -24px;
+}
+
+.evt-32 .m-vueSlickCarousel .slick-arrow.slick-next {
+  right: -24px;
+}
+
+.evt-32 .evt-32-swiper-3 .slick-arrow.slick-prev,
+.evt-32 .evt-32-swiper-3 .slick-arrow.slick-next {
+  top: 63%;
+}
+
+.evt-32 .m-vueSlickCarousel .slick-arrow {
+  width: 77px;
+  height: 77px;
+}
+
+.evt-32 .m-vueSlickCarousel.multiple-type-default .slick-prev:before {
+  background: url(/hago/images/evt/230728/arrow_left.png) no-repeat;
+  background-position: center;
+}
+
+.evt-32 .m-vueSlickCarousel .slick-arrow.slick-next:before {
+  background: url(/hago/images/evt/230728/arrow_right.png) no-repeat;
+  transform: rotate(0deg);
+  background-position: center;
+}
+
+.evt-32 .m-vueSlickCarousel input {
+  display: none;
+}
+
+.evt-32 .m-vueSlickCarousel .detail-btn {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 47.5%;
+  left: 50%;
+  transform: translate(-50%);
+  z-index: 100;
+}
+
+.evt-32 .m-vueSlickCarousel .slick-arrow:focus,
+.m-vueSlickCarousel .slick-arrow:active {
+  box-shadow: none !important;
+}
+
+.evt-32 .evt-32-swiper .slick-dots li {
+  margin-right: 20px !important;
+}
+
+.evt-32 .evt-32-swiper .slick-dots li .custom-dot,
+.evt-32 .evt-32-swiper .slick-dots li .custom-dot:active {
+  box-shadow: none !important;
+}
+
+.evt-32 .m-vueSlickCarousel .slick-dots li:last-child {
+  margin-right: 0 !important;
+}
+
+.evt-32 .evt-32-swiper-3 .slick-dots li .custom-dot {
+  height: 80px;
+  background-position: center;
+}
+
+.evt-32 .evt-32-swiper-3 .slick-dots li:nth-child(1) .custom-dot:nth-child(1) {
+  background: url(/hago/images/evt/230728/tab2-01-off.png) no-repeat center;
+  width: 340px;
+  margin-bottom: 20px;
+}
+
+.evt-32 .evt-32-swiper-3 .slick-dots li:nth-child(1).slick-active .custom-dot {
+  background: url(/hago/images/evt/230728/tab2-01-on.png) no-repeat;
+  background-position: center;
+}
+
+.evt-32 .evt-32-swiper-3 .slick-dots li:nth-child(2) .custom-dot:nth-child(1) {
+  width: 272px;
+  background: url(/hago/images/evt/230728/tab2-02-off.png) no-repeat;
+  margin-right: 20px;
+}
+
+.evt-32 .evt-32-swiper-3 .slick-dots li:nth-child(2).slick-active .custom-dot {
+  background: url(/hago/images/evt/230728/tab2-02-on.png) no-repeat;
+}
+
+.evt-32 .evt-32-swiper-3 .slick-dots li:nth-child(3) .custom-dot:nth-child(1) {
+  width: 303px;
+  background: url(/hago/images/evt/230728/tab2-03-off.png) no-repeat;
+}
+
+.evt-32 .evt-32-swiper-3 .slick-dots li:nth-child(3).slick-active .custom-dot {
+  background: url(/hago/images/evt/230728/tab2-03-on.png) no-repeat;
+}
+
+.evt-32 .evt-32-swiper .slide-item input + label {
+  cursor: pointer;
+}
+
+.l-evt32-pop .option-info-box {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.l-evt32-pop .option-info-box h5 {
+  margin-bottom: 30px;
+}
+
+.evt-32 .slick-prev:before,
+.slick-next:before {
+  opacity: 1 !important;
+}
+
+.evt-32 .evt-32-swiper .slick-arrow,
+.evt-32 .evt-32-swiper-2 .slick-arrow .evt-32 .evt-32-swiper-3 .slick-arrow {
+  top: 50%;
+  transform: translateY(50%);
+}
+
+.evt-32 .evt-32-swiper-2 .slick-arrow {
+  top: 45%;
+}
+
+.evt-32-overview.m-bv-modal.pop-hago .modal-content .modal-body .pop-hago-subs-detail img:first-child {
+  margin-top: 0 !important;
+}
+
+.evt-32 .l-evt-custom-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  position: absolute;
+}
+
+.evt-32 .l-evt-custom-wrap1 {
+  height: 1010px;
+  top: 750px;
+}
+
+.evt-32 .l-evt-custom-wrap2 {
+  height: 1300px;
+  top: 117px;
+}
+
+.evt-32 .l-evt-custom-wrap3 {
+  height: 885px;
+  top: 760px;
+}
+
+.evt-set .img-box {
+  position: relative;
+}
+
+.evt-base1.product-selectZone {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.evt-base1.product-selectZone input {
+  display: none;
+}
+
+.evt-base1.product-selectZone label {
+  cursor: pointer;
+}
+
+.evt-base2 .m-vueSlickCarousel {
+  position: relative;
+  width: 100%;
+}
+
+.evt-base2 .flex-set {
+  display: flex;
+  justify-content: center;
+}
+
+.evt-base2 .l-evt-custom-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  flex-direction: column;
+  position: absolute;
+}
+
+.evt-base2 .swiper-pagination-other-controller {
+  display: flex;
+}
+
+.evt-base2 .swiper-pagination-other-controller .other-controll {
+  margin-right: 20px;
+}
+
+.evt-base2 .swiper-pagination-other-controller div:last-child .other-controll {
+  margin-right: 0;
+}
+
+.evt-base2 .swiper-pagination-other-controller.controller-colmn {
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.evt-base2 .swiper-pagination-other-controller.controller-colmn div:first-child {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.evt-base2 button:focus,
+.evt-base2 button:active {
+  box-shadow: none !important;
+}
+
+.evt-base label {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.evt-base .detail-btn {
+  position: absolute;
+  top: 0;
+  width: 200px;
+  height: 200px;
+}
+
+.evt-base2 .detail-btn {
+  height: 100px;
+}
+
+.evt-base2 .detail-btn {
+  top: 39.5%;
+}
+
+.hago-default-pop-lbase .c-btn-close {
+  display: none;
+}
+
+.evt-base2 .m-vueSlickCarousel.multiple-type-default .slick-list {
+  width: 100%;
+  height: 100%;
+}
+
+.evt-base .m-vueSlickCarousel input {
+  display: none;
+}
+
+.evt-base2 .m-vueSlickCarousel .slick-arrow.slick-prev {
+  left: 0;
+}
+
+.evt-base2 .m-vueSlickCarousel .slick-arrow.slick-next {
+  right: 0;
+}
+
+.evt-base2 .m-vueSlickCarousel.multiple-type-default .slick-prev:before {
+  background: url(https:/image.lguplus.com/static-pogg/hago/images/evt/230728/arrow_left.png) no-repeat;
+  background-position: 50%;
+  opacity: 1 !important;
+}
+
+.evt-base2 .m-vueSlickCarousel .slick-arrow.slick-next:before {
+  background: url(https:/image.lguplus.com/static-pogg/hago/images/evt/230728/arrow_right.png) no-repeat;
+  transform: rotate(0deg);
+  background-position: 50%;
+  opacity: 1 !important;
+}
+
+.evt-base2 .evt-32-swiper-2 .slick-arrow,
+.evt-base2 .evt-32-swiper-3 .slick-arrow,
+.evt-base2 .evt-32-swiper .slick-arrow {
+  top: 50%;
+  transform: translateY(50%);
+}
+
+.evt-base2 .m-vueSlickCarousel .slick-arrow {
+  width: 77px;
+  height: 77px;
+}
+
+.evt-base .m-vueSlickCarousel .slick-arrow.slick-disabled {
+  display: block !important;
+}
+
+.evt-base .m-vueSlickCarousel .slick-arrow:focus,
+.evt-base .m-vueSlickCarousel .slick-arrow:active {
+  box-shadow: none !important;
+}
+
+.evt-33.evt-base2 .l-evt-custom-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.evt-33.evt-base2 .l-evt-custom-wrap2 {
+  height: auto;
+  max-width: 650px;
+  overflow: visible;
+}
+
+.evt-33.evt-base2 .evt-33-swiper {
+  width: 300px;
+  top: 14px;
+  border-radius: 50%;
+  overflow: hidden;
+  transform: scale(0.97);
+}
+
+.evt-33.evt-base2 .evt-33-swiper .slick-arrow.slick-next,
+.evt-33.evt-base2 .evt-33-swiper .slick-arrow.slick-prev {
+  display: none;
+}
+
+.evt-33.evt-base2 .m-vueSlickCarousel.single-type-full .slide-item .visual-img {
+  border-radius: 50%;
+}
+
+.evt-33.evt-base2 .evt-33-swiper .slick-dots,
+.evt-33.evt-base2 .evt-33-swiper2 .slick-dots {
+  display: none !important;
+}
+
+.evt-33 .swiper-pagination-other-controller > img {
+  width: 145px !important;
+  position: absolute;
+  top: 0;
+  right: 28px;
+}
+
+.evt-33.evt-base2 .swiper-pagination-other-controller {
+  padding: 70px 0 58px 0;
+}
+
+.evt-33.evt-base2 .evt-33-swiper2 .slick-arrow.slick-next {
+  right: -90px;
+}
+.evt-33.evt-base2 .evt-33-swiper2 .slick-arrow.slick-prev {
+  left: -90px;
+}
+
+.evt-33 .soon-post {
+  position: absolute;
+  top: 210px;
+  right: -42px;
+  width: 253px !important;
+  height: 59px !important;
+}
+
+.evt-33 .evt-swiper-cus {
+  position: relative;
+  width: 100%;
+}
+
+.evt-33.evt-base2 .swiper-pagination-other-controller .other-controll {
+  margin-right: 0;
+}
+
+.evt-33 .evt-33-swiper2 .slide-item {
+  display: flex !important;
+  flex-direction: column;
+  align-items: center;
+}
+
+.evt-33.evt-base2 .detail-btn {
+  top: 200px;
+  width: 88%;
+  height: 290px;
+}
+
+.evt-33 .evt-33-swiper a {
+  cursor: default !important;
+}
+
+.evt-33 .evt-33-swiper .visual-img img,
+.evt-33 .evt-33-swiper .slick-list {
+  border-radius: 50%;
+}
+
+.evt-33 .evt-33-swiper .slick-list {
+  background: #fff;
+}
+
+.evt-33-swiper .slide-item a:focus .visual-img {
+  outline: none !important;
+}
+.evt-33-swiper2.m-vueSlickCarousel.multiple-type-default .slick-track .slick-slide {
+  padding-left: 10px;
+  padding-right: 10px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="icon" transform="translate(-2.565 2.087)">
+    <g id="그룹_4272" data-name="그룹 4272">
+      <path id="패스_69844" data-name="패스 69844" d="M7.164,13.266l20.1,17.647a3.086,3.086,0,0,0,4.36.187c.065-.06.127-.122.187-.187L51.92,13.264" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <g id="타원_163" data-name="타원 163">
+        <circle id="타원_8559" data-name="타원 8559" cx="13.107" cy="13.107" r="13.107" transform="translate(38.351 26.367)" fill="none"/>
+        <circle id="타원_8560" data-name="타원 8560" cx="12.107" cy="12.107" r="12.107" transform="translate(39.351 27.367)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      </g>
+      <path id="패스_69845" data-name="패스 69845" d="M46.114,39.884l3.979,3.979,6.638-6.638" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="패스_69873" data-name="패스 69873" d="M41.207,45.913H11.077A5.513,5.513,0,0,1,5.564,40.4V13.913a1,1,0,0,1,1-1h46a1,1,0,0,1,1,1V27.551" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <rect id="사각형_2600" data-name="사각형 2600" width="64" height="64" transform="translate(2.565 -2.087)" fill="none"/>
+    </g>
+  </g>
+</svg>

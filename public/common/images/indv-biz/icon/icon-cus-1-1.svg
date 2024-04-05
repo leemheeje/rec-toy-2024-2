@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="40.493" viewBox="0 0 44 40.493">
+  <g id="_02" data-name="02" transform="translate(0.5 0.501)">
+    <path id="패스_2" data-name="패스 2" d="M33.417-76.725H7.074v34.064l9.992-8.964H37.05A5.415,5.415,0,0,0,42.5-57V-68.32" transform="translate(-6.574 77.224)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="패스_3" data-name="패스 3" d="M43.961-64.666h6.452v27.251l-8.3-7.281H24.6a5.5,5.5,0,0,1-5.53-5.461v-.279" transform="translate(-7.913 76.407)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Heart" d="M43.48,9v3h3" transform="translate(-10.396 -8.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <g id="그룹_2" data-name="그룹 2" transform="translate(11.179 11.74)">
+      <circle id="타원_1" data-name="타원 1" cx="1.377" cy="1.377" r="1.377"/>
+      <circle id="타원_1-2" data-name="타원 1" cx="1.377" cy="1.377" r="1.377" transform="translate(5.509)"/>
+      <circle id="타원_1-3" data-name="타원 1" cx="1.377" cy="1.377" r="1.377" transform="translate(11.019)"/>
+    </g>
+  </g>
+</svg>

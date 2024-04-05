@@ -1,0 +1,34 @@
+@charset "UTF-8";
+@import url('./common/common.min.css');
+@import url('./common/font.min.css');
+@import url('./common/style.min.css');
+@import url('./animate.min.css');
+@import url('./p-hago-common.css');
+@import url('./p-hago-main.css');
+@import url('./p-hago-my.css');
+@import url('./p-hago-payment.css');
+@import url('./p-hago-new-main.css');
+@import url('./p-hago-event.css');
+@import url('./p-hago-renew-lhj.css');
+@import url('./p-hago-renew-gsh.css');
+
+
+.c-toast{
+  width: 100%;
+  min-height: 30px;
+  padding: 10px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  font-weight: bold;
+  background-color: aqua;
+}
+[class^='__MODAL_TOAST_ITEM_'] + [class^='__MODAL_TOAST_ITEM_']{
+  margin-top: 5px;
+}
+.modal-header{
+  align-items: flex-start;
+  justify-content: space-between;
+}

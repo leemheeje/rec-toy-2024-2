@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="그룹_458470" data-name="그룹 458470" transform="translate(-113.994)">
+    <g id="그룹_424826" data-name="그룹 424826" transform="translate(128.405 15.29)">
+      <path id="패스_18" data-name="패스 18" d="M167.837,25.941V66.259H131.888V20.868a7.666,7.666,0,0,1,7.666-7.666H155.1" transform="translate(-124.269 -13.202)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <g id="그룹_424822" data-name="그룹 424822" transform="translate(17.901 10.361)">
+        <circle id="타원_164" data-name="타원 164" cx="1.412" cy="1.412" r="1.412" transform="translate(6.277 9.637)"/>
+        <g id="그룹_4275" data-name="그룹 4275">
+          <path id="패스_69847" data-name="패스 69847" d="M155.337,24.4a11.017,11.017,0,0,0-15.378.131" transform="translate(-139.959 -21.335)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+          <path id="패스_69848" data-name="패스 69848" d="M150.911,26.931a5.869,5.869,0,0,0-8.09.13" transform="translate(-139.175 -20.228)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+        </g>
+      </g>
+      <line id="선_432" data-name="선 432" x2="51.18" transform="translate(0 53.054)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <g id="그룹_424824" data-name="그룹 424824" transform="translate(15.4 30.749)">
+        <rect id="사각형_318755" data-name="사각형 318755" width="2.548" height="5.095"/>
+        <rect id="사각형_318756" data-name="사각형 318756" width="2.548" height="5.095" transform="translate(8.917)"/>
+        <rect id="사각형_318757" data-name="사각형 318757" width="2.548" height="5.095" transform="translate(17.834)"/>
+      </g>
+      <g id="그룹_424824-2" data-name="그룹 424824" transform="translate(15.4 40.869)">
+        <rect id="사각형_318755-2" data-name="사각형 318755" width="2.548" height="5.095"/>
+        <rect id="사각형_318756-2" data-name="사각형 318756" width="2.548" height="5.095" transform="translate(8.917)"/>
+        <rect id="사각형_318757-2" data-name="사각형 318757" width="2.548" height="5.095" transform="translate(17.834)"/>
+      </g>
+      <path id="패스_19" data-name="패스 19" d="M160.656,15.75h-2.548V13.2" transform="translate(-117.088 -13.202)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <rect id="사각형_318761" data-name="사각형 318761" width="80" height="80" transform="translate(113.995 0)" fill="none"/>
+  </g>
+</svg>
