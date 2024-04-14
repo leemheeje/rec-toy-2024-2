@@ -40,12 +40,15 @@ const BxCheckbox: React.ForwardRefRenderFunction<HTMLInputElement, BxCheckboxPro
     setLocalId(localId || StringUtil.getUUID())
     setLocalName(localName || localId)
   }, [])
+  useEffect(() => {
+    setLocalChecked(checked)
+  }, [checked])
 
   React.useImperativeHandle(ref, () => inputRef.current)
 
   function handleChange(e) {
     setLocalChecked(e.target.checked)
-    onChange(e.target.checked)
+    onChange(e)
   }
   function handleClick() {}
   return (

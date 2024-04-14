@@ -1,6 +1,6 @@
 import StringUtil from '@/util/StringUtil'
 import RegExps from '@/constant/RegExps'
-import React, {useRef, useState, useEffect} from 'react'
+import React, {useRef, useState, useEffect, HtmlHTMLAttributes} from 'react'
 
 interface BxInputFieldProps {
   children?: React.ReactNode

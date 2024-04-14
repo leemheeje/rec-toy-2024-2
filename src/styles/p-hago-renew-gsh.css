@@ -36,7 +36,7 @@
   right: 5%;
   width: 24px;
   height: 24px;
-  background: url('data:image/svg+xml;utf8,<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http:/www.w3.org/2000/svg"><path d="M2.102.688 23.315 21.9 21.9 23.315.687 2.102 2.102.688z" fill="%23000"/><path d="M.688 21.898 21.9.685 23.315 2.1 2.102 23.313.688 21.898z" fill="%23000"/></svg>') no-repeat center center/cover;
+  background: url('data:image/svg+xml;utf8,<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M2.102.688 23.315 21.9 21.9 23.315.687 2.102 2.102.688z" fill="%23000"/><path d="M.688 21.898 21.9.685 23.315 2.1 2.102 23.313.688 21.898z" fill="%23000"/></svg>') no-repeat center center/cover;
 }
 
 .pg-search-group {
@@ -59,7 +59,7 @@
   right: 54px;
   width: 20px;
   height: 20px;
-  background: #ccc url('data:image/svg+xml;utf8,<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http:/www.w3.org/2000/svg"><rect x="19.8994" y="17.0703" width="4" height="24" rx="2" transform="rotate(135 19.8994 17.0703)" fill="%23fff"/><rect x="2.92871" y="19.8984" width="4" height="24" rx="2" transform="rotate(-135 2.92871 19.8984)" fill="%23fff"/></svg>') no-repeat center center/10px;
+  background: #ccc url('data:image/svg+xml;utf8,<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="19.8994" y="17.0703" width="4" height="24" rx="2" transform="rotate(135 19.8994 17.0703)" fill="%23fff"/><rect x="2.92871" y="19.8984" width="4" height="24" rx="2" transform="rotate(-135 2.92871 19.8984)" fill="%23fff"/></svg>') no-repeat center center/10px;
   border-radius: 50%;
 }
 .pg-search-group .c-inpfield.column-search .c-ibtn-find {
@@ -120,7 +120,7 @@
   display: block;
   width: 23px;
   height: 23px;
-  background: #ccc url('data:image/svg+xml;utf8,<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http:/www.w3.org/2000/svg"><rect x="19.8994" y="17.0703" width="4" height="24" rx="2" transform="rotate(135 19.8994 17.0703)" fill="%23fff"/><rect x="2.92871" y="19.8984" width="4" height="24" rx="2" transform="rotate(-135 2.92871 19.8984)" fill="%23fff"/></svg>') no-repeat center center/10px;
+  background: #ccc url('data:image/svg+xml;utf8,<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="19.8994" y="17.0703" width="4" height="24" rx="2" transform="rotate(135 19.8994 17.0703)" fill="%23fff"/><rect x="2.92871" y="19.8984" width="4" height="24" rx="2" transform="rotate(-135 2.92871 19.8984)" fill="%23fff"/></svg>') no-repeat center center/10px;
   border-radius: 50%;
 }
 
@@ -182,7 +182,7 @@
   width: 12px;
   height: 7px;
   margin-left: 4px;
-  background: url('data:image/svg+xml;utf8,<svg width="22" height="14" viewBox="0 0 22 14" fill="none" xmlns="http:/www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.414 1.414a2 2 0 0 0 0 2.828l8.485 8.486a1.997 1.997 0 0 0 2.83 0l8.486-8.485a2 2 0 0 0-2.829-2.829l-7.071 7.072-7.073-7.072a2 2 0 0 0-2.828 0z" fill="%23000"/></svg>') no-repeat 0 0/cover;
+  background: url('data:image/svg+xml;utf8,<svg width="22" height="14" viewBox="0 0 22 14" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.414 1.414a2 2 0 0 0 0 2.828l8.485 8.486a1.997 1.997 0 0 0 2.83 0l8.486-8.485a2 2 0 0 0-2.829-2.829l-7.071 7.072-7.073-7.072a2 2 0 0 0-2.828 0z" fill="%23000"/></svg>') no-repeat 0 0/cover;
 }
 .pg-search-rlt-area .pg-search-group {
   margin-bottom: 60px;
@@ -201,7 +201,7 @@
 .pg-search-rlt-area .empty-area {
   padding: 224px 0 130px 0;
   text-align: center;
-  background: url('data:image/svg+xml;utf8,<svg width="104" height="104" viewBox="0 0 104 104" fill="none" xmlns="http:/www.w3.org/2000/svg"><circle cx="52" cy="52" r="50" stroke="%23aaa" stroke-width="4"/><rect x="48" y="24" width="8" height="42" rx="4" fill="%23aaa"/><circle cx="52" cy="76" r="4" fill="%23aaa"/></svg>') no-repeat center 140px/64px;
+  background: url('data:image/svg+xml;utf8,<svg width="104" height="104" viewBox="0 0 104 104" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="52" cy="52" r="50" stroke="%23aaa" stroke-width="4"/><rect x="48" y="24" width="8" height="42" rx="4" fill="%23aaa"/><circle cx="52" cy="76" r="4" fill="%23aaa"/></svg>') no-repeat center 140px/64px;
 }
 .pg-search-rlt-area .empty-area dt {
   font-size: 20px;
@@ -268,7 +268,7 @@
   top: 8px;
   width: 12px;
   height: 7px;
-  background: url('data:image/svg+xml;utf8,<svg width="22" height="14" viewBox="0 0 22 14" fill="none" xmlns="http:/www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.414 1.414a2 2 0 0 0 0 2.828l8.485 8.486a1.997 1.997 0 0 0 2.83 0l8.486-8.485a2 2 0 0 0-2.829-2.829l-7.071 7.072-7.073-7.072a2 2 0 0 0-2.828 0z" fill="%23000"/></svg>') no-repeat 0 0/cover;
+  background: url('data:image/svg+xml;utf8,<svg width="22" height="14" viewBox="0 0 22 14" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.414 1.414a2 2 0 0 0 0 2.828l8.485 8.486a1.997 1.997 0 0 0 2.83 0l8.486-8.485a2 2 0 0 0-2.829-2.829l-7.071 7.072-7.073-7.072a2 2 0 0 0-2.828 0z" fill="%23000"/></svg>') no-repeat 0 0/cover;
 }
 .pg-prod-option-group .pg-sort-box.open .pick-name::after {
   transform: rotateZ(180deg);
@@ -344,13 +344,14 @@
   top: 4px;
   width: 15px;
   height: 12px;
-  background: url('data:image/svg+xml;utf8,<svg width="34" height="28" viewBox="0 0 34 28" fill="none" xmlns="http:/www.w3.org/2000/svg"><path d="M4 7h17.5M12.5 21H30" stroke="%23000" stroke-width="4" stroke-linecap="round"/><circle cx="27" cy="7" r="5" stroke="%23000" stroke-width="3"/><circle cx="7" cy="21" r="5" stroke="%23000" stroke-width="3"/></svg>') no-repeat 0 0/cover;
+  background: url('data:image/svg+xml;utf8,<svg width="34" height="28" viewBox="0 0 34 28" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4 7h17.5M12.5 21H30" stroke="%23000" stroke-width="4" stroke-linecap="round"/><circle cx="27" cy="7" r="5" stroke="%23000" stroke-width="3"/><circle cx="7" cy="21" r="5" stroke="%23000" stroke-width="3"/></svg>') no-repeat 0 0/cover;
 }
 .pg-prod-option-group .pg-filter-box.open .pick-filter {
   color: #e6007e;
 }
 .pg-prod-option-group .pg-filter-box.open .pick-filter::after {
-  background: url('data:image/svg+xml;utf8,<svg width="34" height="28" viewBox="0 0 34 28" fill="none" xmlns="http:/www.w3.org/2000/svg"><path d="M4 7h17.5M12.5 21H30" stroke="%23e6007e" stroke-width="4" stroke-linecap="round"/><circle cx="27" cy="7" r="5" stroke="%23e6007e" stroke-width="3"/><circle cx="7" cy="21" r="5" stroke="%23e6007e" stroke-width="3"/></svg>') no-repeat 0 0/cover;
+  background: url('data:image/svg+xml;utf8,<svg width="34" height="28" viewBox="0 0 34 28" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4 7h17.5M12.5 21H30" stroke="%23e6007e" stroke-width="4" stroke-linecap="round"/><circle cx="27" cy="7" r="5" stroke="%23e6007e" stroke-width="3"/><circle cx="7" cy="21" r="5" stroke="%23e6007e" stroke-width="3"/></svg>') no-repeat 0 0/cover;
+  
 }
 .pg-prod-option-group .pg-filter-layer {
   position: absolute;

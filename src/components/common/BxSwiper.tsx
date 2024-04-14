@@ -7,33 +7,9 @@ import 'swiper/css/pagination'
 import React, {useEffect, useState} from 'react'
 
 interface BxSwiperProps {
-  items?: {id?: number; text?: string}[]
+  items?: {[key: string]: any}[]
 }
-const BxSwiper: React.FC<BxSwiperProps> = ({
-  items = [
-    {
-      id: 1,
-      text: '테스트 테스트'
-    },
-    {
-      id: 2,
-      text: '테스트 테스트'
-    },
-    {
-      id: 3,
-      text: '테스트 123123123테스트'
-    },
-    {
-      id: 4,
-      text: '테스트 테스트'
-    },
-    {
-      id: 5,
-      text: '테스트 테스트'
-    }
-  ],
-  ...props
-}) => {
+const BxSwiper: React.FC<BxSwiperProps> = ({items = [], ...props}) => {
   const [localItems, setLocalItems] = useState([])
   useEffect(() => {
     setLocalItems(items)

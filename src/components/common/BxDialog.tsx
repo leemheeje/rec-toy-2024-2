@@ -1,6 +1,7 @@
 import {Modal} from 'react-bootstrap'
-import React, {useState} from 'react'
+import React, {useEffect, useState} from 'react'
 import BxButton from '@/components/common/BxButton'
+import StringUtil from '@/util/StringUtil'
 
 interface BxDialogProps {
   children?: React.ReactNode
@@ -8,6 +9,7 @@ interface BxDialogProps {
   Body?: React.ReactNode
   Footer?: React.ReactNode
   show?: boolean
+  id?: string
   animation?: boolean
   centered?: boolean
   //
@@ -15,6 +17,7 @@ interface BxDialogProps {
   enforceFocus?: boolean
   restoreFocus?: boolean
   dialogClassName?: string
+  onHide?: (e: any) => void
 }
 
 interface Bodyprops {
@@ -43,14 +46,31 @@ const BxDialog: React.FC<BxDialogProps> & {
   Header: React.FC<HeaderProps>
   Body: React.FC<Bodyprops>
   Footer: React.FC<FooterProps>
-} = ({children, centered = true, show = false, animation = false, dialogClassName = '', ...props}) => {
+} = ({
+  children,
+  id = '',
+  centered = true,
+  show = false,
+  animation = false,
+  dialogClassName = '',
+  onHide = () => {},
+  ...props
+}) => {
   const [localIsShow, setIsShow] = useState(show)
-  const handleClose = () => setIsShow(false)
+  const [localId, setLocalId] = useState(id)
+  const handleClose = () => {
+    onHide(localId)
+    setIsShow(false)
+  }
   const handleShow = () => setIsShow(true)
 
+  useEffect(() => {
+    if (!localId) {
+      setLocalId(StringUtil.getUUID('_MV_MODAL_UUID'))
+    }
+  }, [])
   return (
     <>
-      <button onClick={handleShow}>asdfasdfasdf</button>
       <Modal
         centered={centered}
         show={localIsShow}
@@ -59,6 +79,7 @@ const BxDialog: React.FC<BxDialogProps> & {
         autoFocus={true}
         enforceFocus={true}
         restoreFocus={true}
+        id={localId}
         dialogClassName={`modal-dialog modal-md modal-dialog-centered m-bv-modal c-layer-popup ${dialogClassName}`}
       >
         {(Array.isArray(children) &&
@@ -125,12 +146,26 @@ BxDialog.Footer = ({
     <>
       {children}
       <div className="c-btn-group">
-        <BxButton className="c-btn-outline-1-m" onClick={handleOnCancel}>
-          취소
-        </BxButton>
-        <BxButton className="c-btn-solid-1-m" onClick={handleOnConfirm}>
-          확인
-        </BxButton>
+        {buttonType === STR_BUTTON_TYPE.CONFIRM && (
+          <>
+            <BxButton className="c-btn-outline-1-m" onClick={handleOnCancel}>
+              취소
+            </BxButton>
+            <BxButton className="c-btn-solid-1-m" onClick={handleOnConfirm}>
+              확인
+            </BxButton>
+          </>
+        )}
+        {buttonType === STR_BUTTON_TYPE.ALERT && (
+          <BxButton className="c-btn-solid-1-m" onClick={handleOnConfirm}>
+            확인
+          </BxButton>
+        )}
+        {buttonType === STR_BUTTON_TYPE.CANCEL && (
+          <BxButton className="c-btn-outline-1-m" onClick={handleOnCancel}>
+            취소
+          </BxButton>
+        )}
       </div>
     </>
   )
