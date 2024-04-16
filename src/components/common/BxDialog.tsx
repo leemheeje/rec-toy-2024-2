@@ -69,6 +69,9 @@ const BxDialog: React.FC<BxDialogProps> & {
       setLocalId(StringUtil.getUUID('_MV_MODAL_UUID'))
     }
   }, [])
+  useEffect(() => {
+    setIsShow(show)
+  }, [show])
   return (
     <>
       <Modal

@@ -1,6 +1,7 @@
-import TitleBanner from '@/components/ui/TitleBanner'
-import QuickMenu from '@/components/ui/QuickMenu'
-import DisplayProdList from '@/components/ui/DisplayProdList'
+import BxTitleBanner from '@/components/ui/BxTitleBanner'
+import BxQuickMenu from '@/components/ui/BxQuickMenu'
+import BxDisplayProdList from '@/components/ui/BxDisplayProdList'
+import RightAside from '@/components/page/main/RightAside'
 import {categoryList, displayProdList} from '@/mock.js'
 import {useState} from 'react'
 
@@ -39,15 +40,15 @@ const Main = () => {
     <section className="main-section">
       <main className="main">
         <div className="p-main-prod-area">
-          <TitleBanner />
-          {/* <QuickMenu
+          <BxTitleBanner />
+          <BxQuickMenu
             value={{
               data: localCurrentQuickMenuValue,
               setData: setLocalCurrentQuickMenuValue
             }}
             items={categoryList.categoryList}
-          /> */}
-          <DisplayProdList
+          />
+          <BxDisplayProdList
             title="전체 상품"
             items={displayProdList.sppsFoDtoList}
             filterCurrentValue={filterCurrentValue}
@@ -55,6 +56,7 @@ const Main = () => {
           />
         </div>
       </main>
+      <RightAside />
     </section>
   )
 }

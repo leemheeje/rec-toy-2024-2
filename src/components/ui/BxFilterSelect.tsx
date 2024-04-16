@@ -156,6 +156,7 @@ const BxFilterSelect = ({
                     <BxRadio
                       name={`__BX_FILTER_SELECT_RADIO${index}__`}
                       key={`__BX_FILTER_SELECT_RADIO${index}_KEY${_index}__`}
+                      value={`__BX_FILTER_CATEGORY_${_item[chkCodeName]}_${index}`}
                       checked={isChecked(item, _item)}
                       onChange={() => handleRadioOnChange(item, _item)}
                       onClick={(e) => handleRadioOnClick(e, item, _item)}
@@ -194,5 +195,7 @@ const BxFilterSelect = ({
     </div>
   )
 }
+
+BxFilterSelect.displayName = 'BxFilterSelect'
 
 export default BxFilterSelect

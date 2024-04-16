@@ -6,7 +6,7 @@ export default class StringUtil {
     return _.uniqueId(sf ? sf : '_uid_')
   }
   static setPriceComma(str) {
-    return str.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',')
+    return str ? str.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',') : '0'
   }
   static classNames(o) {
     // const _o = o

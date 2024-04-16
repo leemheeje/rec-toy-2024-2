@@ -5,12 +5,12 @@ import BxButton from '@/components/common/BxButton'
 import BxProductionItem, {DESIGN_PROD_TYPE} from '@/components/ui/BxProductionItem'
 import BxProductionWrapping, {WRAPPING_TYPE} from '@/components/ui/BxProductionWrapping'
 import {displayProdList} from '@/mock'
-import BxCheckbox from '@/components/common/BxCheckbox'
-import BxCheckboxGroup from '@/components/common/BxCheckboxGroup'
+import BxCheckbox, {BxCheckboxGroup} from '@/components/common/BxCheckbox'
+// import BxCheckboxGroup from '@/components/common/BxCheckboxGroup'
 import BxToast from '@/components/common/BxToast'
 import BxDialog, {STR_BUTTON_TYPE} from '@/components/common/BxDialog'
 import BxSwiper from '@/components/common/BxSwiper'
-import BxRadio from '@/components/common/BxRadio'
+import BxRadio, {BxRadioGroup} from '@/components/common/BxRadio'
 
 const Main = (props) => {
   const {addDialog} = useContext(LayoutContext)
@@ -25,12 +25,14 @@ const Main = (props) => {
   })
   const inputRef = useRef<HTMLInputElement>(null)
   const inputCheckboxRef = useRef<HTMLInputElement>(null)
+  const inputRadioboxRef = useRef(null)
   const [isToastOpen, setToastOpen] = useState(false)
   const [isToastOpen2, setToastOpen2] = useState(false)
   function onClickAdd(item) {
     console.log(item)
     inputRef.current.focus()
     inputCheckboxRef.current.focus()
+    inputRadioboxRef.current.focus()
   }
   function onClickDelete(item) {
     console.log(item)
@@ -73,16 +75,149 @@ const Main = (props) => {
   function onChange(e) {
     setTestChekce(!testChekce)
   }
-  function onChange222(params) {
-    setCurrentValue(params)
-  }
+
   function onChangeGroup(e) {
     console.log(e)
+  }
+  function onChange2(item) {
+    console.log('item-----------', item)
+    setTestValue(item.code)
+  }
+  function onChange22(item) {
+    console.log('item-----------', item)
+  }
+  function onChange23(item) {
+    setTestValue3(item)
+  }
+  function onChange3(item) {
+    console.log('item-----------', item.target.checked)
+  }
+  function clickwnS() {
+    setTestValue('12')
+  }
+  function clic123kwnS() {
+    settestxwwww('sdf')
+  }
+  function clic121233kwnS() {
+    settestxwwww('')
+  }
+
+  const [testValue, setTestValue] = useState('1')
+  const [testValue2, setTestValue2] = useState('1')
+  const [testValue3, setTestValue3] = useState([{code: '321'}, {code: '344x'}])
+  const [testxwwww, settestxwwww] = useState('1')
+  const refBxCheckboxGroup = useRef(null)
+  function refBxCheckboxGroupText() {
+    console.log(refBxCheckboxGroup)
+    refBxCheckboxGroup.current.focus()
+  }
+
+  //라디오테스트
+  const [rntestValue, setrntestValue] = useState(true)
+  const [r2adioValue, setr2adioValue] = useState('짱1')
+  const [rdiTestValue3, setrdiTestValue3] = useState({code: '344x'})
+  function rdionChange(e) {
+    console.log(e.target.value)
+    setr2adioValue(e.target.value)
+  }
+
+  function refBxRadioGroupText() {
+    console.log(refBxCheckboxGroup)
+    inputRadioboxRef.current.focus()
+  }
+
+  function onChange222(params) {
+    setrdiTestValue3(params)
   }
 
   return (
     <section className="main-section">
       <main className="main">
+        <button onClick={refBxRadioGroupText}>Radio Ref 가져오기</button>
+        <br />
+        <button onClick={() => setrdiTestValue3({code: '321'})}>RadioGroup - changeValue {`[{code: '321'}]`}</button>
+        <br />
+        <button onClick={() => setrdiTestValue3({code: '344x'})}>RadioGroup - changeValue {`[{code: '344x'}]`}</button>
+        <br />
+        <button onClick={() => setrdiTestValue3({code: '111304'})}>
+          RadioGroup - changeValue {`[{code: '111304'}]`}
+        </button>
+        <br />
+        <br />
+        <BxRadio name="dx1" checked={r2adioValue === '짱1'} value="짱1" onChange={rdionChange}>
+          asdfasdf4
+        </BxRadio>
+        <BxRadio name="dx1" checked={r2adioValue === '짱2'} value="짱2" ref={inputRadioboxRef} onChange={rdionChange}>
+          asdfasdf5
+        </BxRadio>
+        <BxRadio name="dx1" checked={r2adioValue === '짱3'} value="짱3" onChange={rdionChange}>
+          asdfasdf5
+        </BxRadio>
+        <BxRadio name="dx2">asdfasdf5</BxRadio>
+        <BxRadio name="dx2">asdfasdf5</BxRadio>
+        {JSON.stringify(r2adioValue)}
+
+        <BxRadioGroup
+          value={rdiTestValue3}
+          items={[{code: '321'}, {code: '344x'}, {code: '111304'}]}
+          codeId="code"
+          useIcon={true}
+          onChange={onChange222}
+          returnObject={true}
+        >
+          {(item) => <span>{item.code}</span>}
+        </BxRadioGroup>
+        {JSON.stringify(rdiTestValue3)}
+        <br />
+        {/* <BxRadioGroup
+          value={rdiTestValue3}
+          items={[{code: '321'}, {code: '344x'}, {code: '111304'}]}
+          onChange={onChange222}
+        >
+          {(item) => item['codeName']}
+        </BxRadioGroup> */}
+        <br />
+        <button onClick={refBxCheckboxGroupText}>Checkbox Ref 가져오기</button>
+        <br />
+        <button onClick={() => setTestValue3([{code: '321'}])}>CheckboxGroup - changeValue {`[{code: '321'}]`}</button>
+        <br />
+        <button onClick={() => setTestValue3([{code: '321'}, {code: '111304'}])}>
+          CheckboxGroup - changeValue {`[{code: '321'}, {code: '111304'}]`}
+        </button>
+        <br />
+        <button onClick={() => setTestValue3([{code: '111304'}])}>
+          CheckboxGroup - changeValue {`[{code: '111304'}]`}
+        </button>
+        <br />
+        <BxCheckboxGroup
+          value={testValue3}
+          items={[{code: '321'}, {code: '344x'}, {code: '111304'}]}
+          onChange={onChange23}
+        >
+          123
+        </BxCheckboxGroup>
+        <BxCheckboxGroup
+          value={testValue3}
+          items={[{code: '321'}, {code: '344x'}, {code: '111304'}]}
+          onChange={onChange23}
+        >
+          <div>asdf</div>
+          <div>asdf</div>
+          <div>asdf</div>
+        </BxCheckboxGroup>
+        <BxCheckboxGroup
+          value={testValue3}
+          items={[{code: '321'}, {code: '344x'}, {code: '111304'}]}
+          onChange={onChange23}
+          ref={refBxCheckboxGroup}
+        >
+          {(item) => <span className="wxcv">{`asdfasdfasdf${item.code}`}</span>}
+        </BxCheckboxGroup>
+        {JSON.stringify(testValue3)}
+        <br />
+        <BxCheckbox ref={inputCheckboxRef} value={'sdf'} checked={testxwwww === 'sdf'} onChange={onChange3}>
+          tes12312321t
+        </BxCheckbox>
         <div className="p-main-prod-area">
           <button
             onClick={() =>
@@ -119,7 +254,7 @@ const Main = (props) => {
           <br />
           <button onClick={ggggsetTest2}>이거 누르면 값변함2</button>
           <br />
-          <BxRadio onChange={onChange} checked={testChekce} value="swmnxq" name="swmnxq13">
+          {/* <BxRadio onChange={onChange} checked={testChekce} value="swmnxq" name="swmnxq13">
             asdfasdf4
           </BxRadio>
           <BxRadio onChange={onChange} checked={!testChekce} value="swmnxq2" name="swmnxq13">
@@ -128,7 +263,7 @@ const Main = (props) => {
 
           <BxRadio.Group value={currentValue} items={teststset} onChange={onChange222}>
             {(item) => item['codeName']}
-          </BxRadio.Group>
+          </BxRadio.Group> */}
 
           <br />
           <br />
@@ -207,7 +342,7 @@ const Main = (props) => {
           >
             테스트토스트222222
           </BxToast>
-          <BxCheckboxGroup
+          {/* <BxCheckbox.Group
             items={[
               {
                 codeId: 1,
@@ -219,9 +354,9 @@ const Main = (props) => {
               }
             ]}
           >
-            {(item) => <BxCheckbox>{item.codeName}</BxCheckbox>}
-          </BxCheckboxGroup>
-          <BxCheckbox ref={inputCheckboxRef}>test</BxCheckbox>
+            {(item) => <span>{`${item.codeName} 123123123`}</span>}
+          </BxCheckbox.Group> */}
+          <BxCheckbox>test</BxCheckbox>
           <BxInputField
             ref={inputRef}
             isError={valiInputField.isError}

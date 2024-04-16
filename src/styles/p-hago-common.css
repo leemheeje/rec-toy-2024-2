@@ -136,10 +136,8 @@
 .p-hago aside.right-aside {
   font-size: 13px;
   font-weight: 500;
-  position: sticky;
-  top: 60px;
+  position: relative;
   width: 334px;
-  height: fit-content;
   z-index: 10;
 }
 .p-hago aside.right-aside div {
@@ -203,7 +201,6 @@
 }
 
 .p-hago aside.right-aside .subs-price-list {
-  position: absolute;
   top: 0;
   z-index: 10;
   width: 100%;
@@ -219,12 +216,12 @@
   align-items: center;
   justify-content: space-between;
 }
-.p-hago aside.right-aside .subs-price-list .subs-price-top .btn-close {
+.p-hago aside.right-aside .subs-price-list .subs-price-top .vs-btn-close {
   transform: rotate(180deg);
   transition: 0.3s ease-in-out;
   cursor: pointer;
 }
-.p-hago aside.right-aside .subs-price-list .subs-price-top .btn-close.active {
+.p-hago aside.right-aside .subs-price-list .subs-price-top .vs-btn-close.active {
   transform: rotate(0deg);
 }
 .p-hago aside.right-aside .subs-price-list .subs-price-bottom {
